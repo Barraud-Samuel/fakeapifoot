@@ -54,8 +54,8 @@ module.exports  ={
                 "firstHalfStart": null,
                 "secondHalfStart": null,
                 "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
+                "status": "First Half, Kick Off",
+                "statusShort": "1H",
                 "elapsed": 0,
                 "venue": null,
                 "referee": null,
@@ -69,8 +69,8 @@ module.exports  ={
                     "team_name": "Turku PS",
                     "logo": "https://media.api-football.com/teams/1168.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
