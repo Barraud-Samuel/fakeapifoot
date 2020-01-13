@@ -16,8 +16,8 @@ module.exports  ={
                 "firstHalfStart": null,
                 "secondHalfStart": null,
                 "round": "Group Stage - 1",
-                "status": "First Half, Kick Off",
-                "statusShort": "1H",
+                "status": "Not Started",
+                "statusShort": "NS",
                 "elapsed": 25,
                 "venue": null,
                 "referee": null,
@@ -31,8 +31,8 @@ module.exports  ={
                     "team_name": "HIFK Elsinki",
                     "logo": "https://media.api-football.com/teams/1172.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
