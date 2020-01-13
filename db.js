@@ -54,7 +54,7 @@ module.exports  ={
                 "firstHalfStart": null,
                 "secondHalfStart": null,
                 "round": "Group Stage - 1",
-                "status": "First Half, Kick Off",
+                "status": "Match Finished",
                 "statusShort": "1H",
                 "elapsed": 0,
                 "venue": null,
@@ -70,11 +70,11 @@ module.exports  ={
                     "logo": "https://media.api-football.com/teams/1168.png"
                 },
                 "goalsHomeTeam": 2,
-                "goalsAwayTeam": 1,
+                "goalsAwayTeam": 2,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
+                    "halftime": "2-1",
+                    "fulltime": "2-2",
+                    "extratime": "2-3",
                     "penalty": null
                 }
             },
@@ -92,8 +92,8 @@ module.exports  ={
                 "firstHalfStart": null,
                 "secondHalfStart": null,
                 "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
+                "status": "First Half, Kick Off",
+                "statusShort": "1H",
                 "elapsed": 0,
                 "venue": null,
                 "referee": null,
@@ -107,8 +107,8 @@ module.exports  ={
                     "team_name": "Ilves Tampere",
                     "logo": "https://media.api-football.com/teams/1163.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 2,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
