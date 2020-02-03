@@ -15,7 +15,7 @@ module.exports  ={
                 "event_timestamp": 1579950000,
                 "firstHalfStart": null,
                 "secondHalfStart": null,
-                "round": "Group Stage - 1",
+                "round": "8th Finals",
                 "status": "First Half",
                 "statusShort": "1H",
                 "elapsed": 20,
