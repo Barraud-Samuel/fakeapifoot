@@ -18,7 +18,7 @@ module.exports  ={
                 "round": "8th Finals",
                 "status": "First Half",
                 "statusShort": "1H",
-                "elapsed": 20,
+                "elapsed": 30,
                 "venue": null,
                 "referee": null,
                 "homeTeam": {
@@ -31,7 +31,7 @@ module.exports  ={
                     "team_name": "HIFK Elsinki",
                     "logo": "https://media.api-football.com/teams/1172.png"
                 },
-                "goalsHomeTeam": 1,
+                "goalsHomeTeam": 2,
                 "goalsAwayTeam": 0,
                 "score": {
                     "halftime": null,
