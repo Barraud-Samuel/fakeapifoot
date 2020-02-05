@@ -17,7 +17,7 @@ module.exports  ={
                 "secondHalfStart": null,
                 "round": "Group Stage - 1",
                 "status": "Not Started",
-                "statusShort": "NS",
+                "statusShort": "1H",
                 "elapsed": 11,
                 "venue": null,
                 "referee": null,
