@@ -32,7 +32,7 @@ module.exports  ={
                     "logo": "https://media.api-football.com/teams/1172.png"
                 },
                 "goalsHomeTeam": 1,
-                "goalsAwayTeam": 0,
+                "goalsAwayTeam": 1,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
