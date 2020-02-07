@@ -18,7 +18,7 @@ module.exports  ={
                 "round": "Group Stage - 1",
                 "status": "Not Started",
                 "statusShort": "1H",
-                "elapsed": 3,
+                "elapsed": 10,
                 "venue": null,
                 "referee": null,
                 "homeTeam": {
