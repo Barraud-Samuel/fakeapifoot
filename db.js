@@ -31,8 +31,8 @@ module.exports  ={
                     "team_name": "HIFK Elsinki",
                     "logo": "https://media.api-football.com/teams/1172.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 3,
+                "goalsAwayTeam": 2,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
@@ -69,7 +69,7 @@ module.exports  ={
                     "team_name": "Turku PS",
                     "logo": "https://media.api-football.com/teams/1168.png"
                 },
-                "goalsHomeTeam": 1,
+                "goalsHomeTeam": 2,
                 "goalsAwayTeam": 0,
                 "score": {
                     "halftime": null,
