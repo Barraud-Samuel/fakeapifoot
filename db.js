@@ -17,7 +17,7 @@ module.exports  ={
                 "secondHalfStart": null,
                 "round": "Group Stage - 1",
                 "status": "Not Started",
-                "statusShort": "1H",
+                "statusShort": "NS",
                 "elapsed": 0,
                 "venue": null,
                 "referee": null,
@@ -31,8 +31,8 @@ module.exports  ={
                     "team_name": "HIFK Elsinki",
                     "logo": "https://media.api-football.com/teams/1172.png"
                 },
-                "goalsHomeTeam": 3,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
@@ -55,7 +55,7 @@ module.exports  ={
                 "secondHalfStart": null,
                 "round": "Group Stage - 1",
                 "status": "Not Started",
-                "statusShort": "1H",
+                "statusShort": "NS",
                 "elapsed": 0,
                 "venue": null,
                 "referee": null,
@@ -69,8 +69,8 @@ module.exports  ={
                     "team_name": "Turku PS",
                     "logo": "https://media.api-football.com/teams/1168.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
