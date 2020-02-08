@@ -16,8 +16,8 @@ module.exports  ={
                 "firstHalfStart": null,
                 "secondHalfStart": null,
                 "round": "Group Stage - 1",
-                "status": "first half",
-                "statusShort": "1H",
+                "status": "Match Finished",
+                "statusShort": "FT",
                 "elapsed": 0,
                 "venue": null,
                 "referee": null,
@@ -34,9 +34,9 @@ module.exports  ={
                 "goalsHomeTeam": 0,
                 "goalsAwayTeam": 0,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
+                    "halftime": '0-0',
+                    "fulltime": '0-0',
+                    "extratime": '1-0',
                     "penalty": null
                 }
             },
