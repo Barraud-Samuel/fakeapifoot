@@ -16,7 +16,7 @@ module.exports  ={
                 "firstHalfStart": null,
                 "secondHalfStart": null,
                 "round": "Group Stage - 1",
-                "status": "Not Started",
+                "status": "first half",
                 "statusShort": "1H",
                 "elapsed": 10,
                 "venue": null,
@@ -36,7 +36,7 @@ module.exports  ={
                 "score": {
                     "halftime": '0-0',
                     "fulltime": '0-0',
-                    "extratime": '1-0',
+                    "extratime": '0-0',
                     "penalty": null
                 }
             },
