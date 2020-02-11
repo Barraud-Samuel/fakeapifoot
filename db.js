@@ -69,7 +69,7 @@ module.exports  ={
                     "team_name": "Turku PS",
                     "logo": "https://media.api-football.com/teams/1168.png"
                 },
-                "goalsHomeTeam": 0,
+                "goalsHomeTeam": 1,
                 "goalsAwayTeam": 0,
                 "score": {
                     "halftime": null,
