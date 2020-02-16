@@ -1,2283 +1,2435 @@
 module.exports  ={
     "api": {
-        "results": 60,
+        "results": 64,
         "fixtures": [
             {
-                "fixture_id": 291347,
-                "league_id": 1245,
+                "fixture_id": 135777,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-01-25T11:00:00+00:00",
-                "event_timestamp": 1579950000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
+                "event_date": "2018-06-14T15:00:00+00:00",
+                "event_timestamp": 1528988400,
+                "firstHalfStart": 1528988400,
+                "secondHalfStart": 1528992000,
                 "round": "Group Stage - 1",
-                "status": "first half",
-                "statusShort": "1H",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Luzhniki Stadium, Moscow",
+                "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
-                    "team_id": 1169,
-                    "team_name": "Honka",
-                    "logo": "https://media.api-football.com/teams/1169.png"
+                    "team_id": 4,
+                    "team_name": "Russia",
+                    "logo": "https://media.api-football.com/teams/4.png"
                 },
                 "awayTeam": {
-                    "team_id": 1172,
-                    "team_name": "HIFK Elsinki",
-                    "logo": "https://media.api-football.com/teams/1172.png"
+                    "team_id": 23,
+                    "team_name": "Saudi Arabia",
+                    "logo": "https://media.api-football.com/teams/23.png"
+                },
+                "goalsHomeTeam": 5,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "2-0",
+                    "fulltime": "5-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135778,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-15T12:00:00+00:00",
+                "event_timestamp": 1529064000,
+                "firstHalfStart": 1529064000,
+                "secondHalfStart": 1529067600,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Central Stadium, Yekaterinburg",
+                "referee": "Bjorn Kuipers, Netherlands",
+                "homeTeam": {
+                    "team_id": 32,
+                    "team_name": "Egypt",
+                    "logo": "https://media.api-football.com/teams/32.png"
+                },
+                "awayTeam": {
+                    "team_id": 7,
+                    "team_name": "Uruguay",
+                    "logo": "https://media.api-football.com/teams/7.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "0-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135779,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-15T15:00:00+00:00",
+                "event_timestamp": 1529074800,
+                "firstHalfStart": 1529074800,
+                "secondHalfStart": 1529078400,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Krestovsky Stadium, Saint Petersburg",
+                "referee": "Cuneyt Cakir, Turkey",
+                "homeTeam": {
+                    "team_id": 31,
+                    "team_name": "Morocco",
+                    "logo": "https://media.api-football.com/teams/31.png"
+                },
+                "awayTeam": {
+                    "team_id": 22,
+                    "team_name": "Iran",
+                    "logo": "https://media.api-football.com/teams/22.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "0-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135780,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-15T18:00:00+00:00",
+                "event_timestamp": 1529085600,
+                "firstHalfStart": 1529085600,
+                "secondHalfStart": 1529089200,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Fisht Olympic Stadium, Sochi",
+                "referee": "Gianluca Rocchi, Italy",
+                "homeTeam": {
+                    "team_id": 27,
+                    "team_name": "Portugal",
+                    "logo": "https://media.api-football.com/teams/27.png"
+                },
+                "awayTeam": {
+                    "team_id": 9,
+                    "team_name": "Spain",
+                    "logo": "https://media.api-football.com/teams/9.png"
+                },
+                "goalsHomeTeam": 3,
+                "goalsAwayTeam": 3,
+                "score": {
+                    "halftime": "2-1",
+                    "fulltime": "3-3",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135781,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-16T10:00:00+00:00",
+                "event_timestamp": 1529143200,
+                "firstHalfStart": 1529143200,
+                "secondHalfStart": 1529146800,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kazan Arena, Kazan",
+                "referee": "Andres Cunha, Uruguay",
+                "homeTeam": {
+                    "team_id": 2,
+                    "team_name": "France",
+                    "logo": "https://media.api-football.com/teams/2.png"
+                },
+                "awayTeam": {
+                    "team_id": 20,
+                    "team_name": "Australia",
+                    "logo": "https://media.api-football.com/teams/20.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "2-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135782,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-16T13:00:00+00:00",
+                "event_timestamp": 1529154000,
+                "firstHalfStart": 1529154000,
+                "secondHalfStart": 1529157600,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Otkrytie Arena, Moscow",
+                "referee": "Szymon Marciniak, Poland",
+                "homeTeam": {
+                    "team_id": 26,
+                    "team_name": "Argentina",
+                    "logo": "https://media.api-football.com/teams/26.png"
+                },
+                "awayTeam": {
+                    "team_id": 18,
+                    "team_name": "Iceland",
+                    "logo": "https://media.api-football.com/teams/18.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": "1-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135783,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-16T16:00:00+00:00",
+                "event_timestamp": 1529164800,
+                "firstHalfStart": 1529164800,
+                "secondHalfStart": 1529168400,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Mordovia Arena, Saransk",
+                "referee": "Bakary Papa Gassama, Gambia",
+                "homeTeam": {
+                    "team_id": 30,
+                    "team_name": "Peru",
+                    "logo": "https://media.api-football.com/teams/30.png"
+                },
+                "awayTeam": {
+                    "team_id": 21,
+                    "team_name": "Denmark",
+                    "logo": "https://media.api-football.com/teams/21.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "0-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135784,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-16T19:00:00+00:00",
+                "event_timestamp": 1529175600,
+                "firstHalfStart": 1529175600,
+                "secondHalfStart": 1529179200,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kaliningrad Stadium, Kaliningrad",
+                "referee": "Sandro Meira Ricci, Brazil",
+                "homeTeam": {
+                    "team_id": 3,
+                    "team_name": "Croatia",
+                    "logo": "https://media.api-football.com/teams/3.png"
+                },
+                "awayTeam": {
+                    "team_id": 19,
+                    "team_name": "Nigeria",
+                    "logo": "https://media.api-football.com/teams/19.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "2-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135785,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-17T12:00:00+00:00",
+                "event_timestamp": 1529236800,
+                "firstHalfStart": 1529236800,
+                "secondHalfStart": 1529240400,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Samara Arena, Samara",
+                "referee": "Malang Diedhiou, Senegal",
+                "homeTeam": {
+                    "team_id": 29,
+                    "team_name": "Costa Rica",
+                    "logo": "https://media.api-football.com/teams/29.png"
+                },
+                "awayTeam": {
+                    "team_id": 14,
+                    "team_name": "Serbia",
+                    "logo": "https://media.api-football.com/teams/14.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "0-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135786,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-17T15:00:00+00:00",
+                "event_timestamp": 1529247600,
+                "firstHalfStart": 1529247600,
+                "secondHalfStart": 1529251200,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Luzhniki Stadium, Moscow",
+                "referee": "Alireza Faghani, Iran",
+                "homeTeam": {
+                    "team_id": 25,
+                    "team_name": "Germany",
+                    "logo": "https://media.api-football.com/teams/25.png"
+                },
+                "awayTeam": {
+                    "team_id": 16,
+                    "team_name": "Mexico",
+                    "logo": "https://media.api-football.com/teams/16.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "0-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135787,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-17T18:00:00+00:00",
+                "event_timestamp": 1529258400,
+                "firstHalfStart": 1529258400,
+                "secondHalfStart": 1529262000,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Rostov Arena, Rostov-on-Don",
+                "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
+                "homeTeam": {
+                    "team_id": 6,
+                    "team_name": "Brazil",
+                    "logo": "https://media.api-football.com/teams/6.png"
+                },
+                "awayTeam": {
+                    "team_id": 15,
+                    "team_name": "Switzerland",
+                    "logo": "https://media.api-football.com/teams/15.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "1-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135788,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-18T12:00:00+00:00",
+                "event_timestamp": 1529323200,
+                "firstHalfStart": 1529323200,
+                "secondHalfStart": 1529326800,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "referee": "Joel Aguilar Chicas, El Salvador",
+                "homeTeam": {
+                    "team_id": 5,
+                    "team_name": "Sweden",
+                    "logo": "https://media.api-football.com/teams/5.png"
+                },
+                "awayTeam": {
+                    "team_id": 17,
+                    "team_name": "South Korea",
+                    "logo": "https://media.api-football.com/teams/17.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "1-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135789,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-18T15:00:00+00:00",
+                "event_timestamp": 1529334000,
+                "firstHalfStart": 1529334000,
+                "secondHalfStart": 1529337600,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Fisht Olympic Stadium, Sochi",
+                "referee": "Janny Sikazwe, Zambia",
+                "homeTeam": {
+                    "team_id": 1,
+                    "team_name": "Belgium",
+                    "logo": "https://media.api-football.com/teams/1.png"
+                },
+                "awayTeam": {
+                    "team_id": 11,
+                    "team_name": "Panama",
+                    "logo": "https://media.api-football.com/teams/11.png"
+                },
+                "goalsHomeTeam": 3,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "3-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135790,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-18T18:00:00+00:00",
+                "event_timestamp": 1529344800,
+                "firstHalfStart": 1529344800,
+                "secondHalfStart": 1529348400,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Volgograd Arena, Volgograd",
+                "referee": "Wilmar Roldan, Colombia",
+                "homeTeam": {
+                    "team_id": 28,
+                    "team_name": "Tunisia",
+                    "logo": "https://media.api-football.com/teams/28.png"
+                },
+                "awayTeam": {
+                    "team_id": 10,
+                    "team_name": "England",
+                    "logo": "https://media.api-football.com/teams/10.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": "1-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135791,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-19T12:00:00+00:00",
+                "event_timestamp": 1529409600,
+                "firstHalfStart": 1529409600,
+                "secondHalfStart": 1529413200,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Mordovia Arena, Saransk",
+                "referee": "Damir Skomina, Slovenia",
+                "homeTeam": {
+                    "team_id": 8,
+                    "team_name": "Colombia",
+                    "logo": "https://media.api-football.com/teams/8.png"
+                },
+                "awayTeam": {
+                    "team_id": 12,
+                    "team_name": "Japan",
+                    "logo": "https://media.api-football.com/teams/12.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": "1-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135792,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-19T15:00:00+00:00",
+                "event_timestamp": 1529420400,
+                "firstHalfStart": 1529420400,
+                "secondHalfStart": 1529424000,
+                "round": "Group Stage - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Otkrytie Arena, Moscow",
+                "referee": "Nawaf Shukralla, Bahrain",
+                "homeTeam": {
+                    "team_id": 24,
+                    "team_name": "Poland",
+                    "logo": "https://media.api-football.com/teams/24.png"
+                },
+                "awayTeam": {
+                    "team_id": 13,
+                    "team_name": "Senegal",
+                    "logo": "https://media.api-football.com/teams/13.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "1-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135793,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-19T18:00:00+00:00",
+                "event_timestamp": 1529431200,
+                "firstHalfStart": 1529431200,
+                "secondHalfStart": 1529434800,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Krestovsky Stadium, Saint Petersburg",
+                "referee": "Enrique Caceres Villafane, Paraguay",
+                "homeTeam": {
+                    "team_id": 4,
+                    "team_name": "Russia",
+                    "logo": "https://media.api-football.com/teams/4.png"
+                },
+                "awayTeam": {
+                    "team_id": 32,
+                    "team_name": "Egypt",
+                    "logo": "https://media.api-football.com/teams/32.png"
+                },
+                "goalsHomeTeam": 3,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "3-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135794,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-20T12:00:00+00:00",
+                "event_timestamp": 1529496000,
+                "firstHalfStart": 1529496000,
+                "secondHalfStart": 1529499600,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Luzhniki Stadium, Moscow",
+                "referee": "Mark Geiger, USA",
+                "homeTeam": {
+                    "team_id": 27,
+                    "team_name": "Portugal",
+                    "logo": "https://media.api-football.com/teams/27.png"
+                },
+                "awayTeam": {
+                    "team_id": 31,
+                    "team_name": "Morocco",
+                    "logo": "https://media.api-football.com/teams/31.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "1-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135795,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-20T15:00:00+00:00",
+                "event_timestamp": 1529506800,
+                "firstHalfStart": 1529506800,
+                "secondHalfStart": 1529510400,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Rostov Arena, Rostov-on-Don",
+                "referee": "Clement Turpin, France",
+                "homeTeam": {
+                    "team_id": 7,
+                    "team_name": "Uruguay",
+                    "logo": "https://media.api-football.com/teams/7.png"
+                },
+                "awayTeam": {
+                    "team_id": 23,
+                    "team_name": "Saudi Arabia",
+                    "logo": "https://media.api-football.com/teams/23.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "1-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135796,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-20T18:00:00+00:00",
+                "event_timestamp": 1529517600,
+                "firstHalfStart": 1529517600,
+                "secondHalfStart": 1529521200,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kazan Arena, Kazan",
+                "referee": "Andres Cunha, Uruguay",
+                "homeTeam": {
+                    "team_id": 22,
+                    "team_name": "Iran",
+                    "logo": "https://media.api-football.com/teams/22.png"
+                },
+                "awayTeam": {
+                    "team_id": 9,
+                    "team_name": "Spain",
+                    "logo": "https://media.api-football.com/teams/9.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "0-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135797,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-21T12:00:00+00:00",
+                "event_timestamp": 1529582400,
+                "firstHalfStart": 1529582400,
+                "secondHalfStart": 1529586000,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Samara Arena, Samara",
+                "referee": "Antonio Mateu, Spain",
+                "homeTeam": {
+                    "team_id": 21,
+                    "team_name": "Denmark",
+                    "logo": "https://media.api-football.com/teams/21.png"
+                },
+                "awayTeam": {
+                    "team_id": 20,
+                    "team_name": "Australia",
+                    "logo": "https://media.api-football.com/teams/20.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": "1-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135798,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-21T15:00:00+00:00",
+                "event_timestamp": 1529593200,
+                "firstHalfStart": 1529593200,
+                "secondHalfStart": 1529596800,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Central Stadium, Yekaterinburg",
+                "referee": "Mohammed Abdulla Hassan Mohamed, United Arab Emirates",
+                "homeTeam": {
+                    "team_id": 2,
+                    "team_name": "France",
+                    "logo": "https://media.api-football.com/teams/2.png"
+                },
+                "awayTeam": {
+                    "team_id": 30,
+                    "team_name": "Peru",
+                    "logo": "https://media.api-football.com/teams/30.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "1-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135799,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-21T18:00:00+00:00",
+                "event_timestamp": 1529604000,
+                "firstHalfStart": 1529604000,
+                "secondHalfStart": 1529607600,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "referee": "Ravshan Irmatov, Uzbekistan",
+                "homeTeam": {
+                    "team_id": 26,
+                    "team_name": "Argentina",
+                    "logo": "https://media.api-football.com/teams/26.png"
+                },
+                "awayTeam": {
+                    "team_id": 3,
+                    "team_name": "Croatia",
+                    "logo": "https://media.api-football.com/teams/3.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 3,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "0-3",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135800,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-22T12:00:00+00:00",
+                "event_timestamp": 1529668800,
+                "firstHalfStart": 1529668800,
+                "secondHalfStart": 1529672400,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Krestovsky Stadium, Saint Petersburg",
+                "referee": "Bjorn Kuipers, Netherlands",
+                "homeTeam": {
+                    "team_id": 6,
+                    "team_name": "Brazil",
+                    "logo": "https://media.api-football.com/teams/6.png"
+                },
+                "awayTeam": {
+                    "team_id": 29,
+                    "team_name": "Costa Rica",
+                    "logo": "https://media.api-football.com/teams/29.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "2-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135801,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-22T15:00:00+00:00",
+                "event_timestamp": 1529679600,
+                "firstHalfStart": 1529679600,
+                "secondHalfStart": 1529683200,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Volgograd Arena, Volgograd",
+                "referee": "Matt Conger, New Zealand",
+                "homeTeam": {
+                    "team_id": 19,
+                    "team_name": "Nigeria",
+                    "logo": "https://media.api-football.com/teams/19.png"
+                },
+                "awayTeam": {
+                    "team_id": 18,
+                    "team_name": "Iceland",
+                    "logo": "https://media.api-football.com/teams/18.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "2-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135802,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-22T18:00:00+00:00",
+                "event_timestamp": 1529690400,
+                "firstHalfStart": 1529690400,
+                "secondHalfStart": 1529694000,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kaliningrad Stadium, Kaliningrad",
+                "referee": "Felix Brych, Germany",
+                "homeTeam": {
+                    "team_id": 14,
+                    "team_name": "Serbia",
+                    "logo": "https://media.api-football.com/teams/14.png"
+                },
+                "awayTeam": {
+                    "team_id": 15,
+                    "team_name": "Switzerland",
+                    "logo": "https://media.api-football.com/teams/15.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "1-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135803,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-23T12:00:00+00:00",
+                "event_timestamp": 1529755200,
+                "firstHalfStart": 1529755200,
+                "secondHalfStart": 1529758800,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Otkrytie Arena, Moscow",
+                "referee": "Jair Marrufo, USA",
+                "homeTeam": {
+                    "team_id": 1,
+                    "team_name": "Belgium",
+                    "logo": "https://media.api-football.com/teams/1.png"
+                },
+                "awayTeam": {
+                    "team_id": 28,
+                    "team_name": "Tunisia",
+                    "logo": "https://media.api-football.com/teams/28.png"
+                },
+                "goalsHomeTeam": 5,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "3-1",
+                    "fulltime": "5-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135804,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-23T15:00:00+00:00",
+                "event_timestamp": 1529766000,
+                "firstHalfStart": 1529766000,
+                "secondHalfStart": 1529769600,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Rostov Arena, Rostov-on-Don",
+                "referee": "Milorad Mazic, Serbia",
+                "homeTeam": {
+                    "team_id": 17,
+                    "team_name": "South Korea",
+                    "logo": "https://media.api-football.com/teams/17.png"
+                },
+                "awayTeam": {
+                    "team_id": 16,
+                    "team_name": "Mexico",
+                    "logo": "https://media.api-football.com/teams/16.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "1-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135805,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-23T18:00:00+00:00",
+                "event_timestamp": 1529776800,
+                "firstHalfStart": 1529776800,
+                "secondHalfStart": 1529780400,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Fisht Olympic Stadium, Sochi",
+                "referee": "Szymon Marciniak, Poland",
+                "homeTeam": {
+                    "team_id": 25,
+                    "team_name": "Germany",
+                    "logo": "https://media.api-football.com/teams/25.png"
+                },
+                "awayTeam": {
+                    "team_id": 5,
+                    "team_name": "Sweden",
+                    "logo": "https://media.api-football.com/teams/5.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "2-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135806,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-24T12:00:00+00:00",
+                "event_timestamp": 1529841600,
+                "firstHalfStart": 1529841600,
+                "secondHalfStart": 1529845200,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "referee": "Ghead Zaglol Grisha, Egypt",
+                "homeTeam": {
+                    "team_id": 10,
+                    "team_name": "England",
+                    "logo": "https://media.api-football.com/teams/10.png"
+                },
+                "awayTeam": {
+                    "team_id": 11,
+                    "team_name": "Panama",
+                    "logo": "https://media.api-football.com/teams/11.png"
+                },
+                "goalsHomeTeam": 6,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "5-0",
+                    "fulltime": "6-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135807,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-24T15:00:00+00:00",
+                "event_timestamp": 1529852400,
+                "firstHalfStart": 1529852400,
+                "secondHalfStart": 1529856000,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Central Stadium, Yekaterinburg",
+                "referee": "Gianluca Rocchi, Italy",
+                "homeTeam": {
+                    "team_id": 12,
+                    "team_name": "Japan",
+                    "logo": "https://media.api-football.com/teams/12.png"
+                },
+                "awayTeam": {
+                    "team_id": 13,
+                    "team_name": "Senegal",
+                    "logo": "https://media.api-football.com/teams/13.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": "2-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135808,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-24T18:00:00+00:00",
+                "event_timestamp": 1529863200,
+                "firstHalfStart": 1529863200,
+                "secondHalfStart": 1529866800,
+                "round": "Group Stage - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kazan Arena, Kazan",
+                "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
+                "homeTeam": {
+                    "team_id": 24,
+                    "team_name": "Poland",
+                    "logo": "https://media.api-football.com/teams/24.png"
+                },
+                "awayTeam": {
+                    "team_id": 8,
+                    "team_name": "Colombia",
+                    "logo": "https://media.api-football.com/teams/8.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 3,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "0-3",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135809,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-25T14:00:00+00:00",
+                "event_timestamp": 1529935200,
+                "firstHalfStart": 1529935200,
+                "secondHalfStart": 1529938800,
+                "round": "Group Stage - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Samara Arena, Samara",
+                "referee": "Malang Diedhiou, Senegal",
+                "homeTeam": {
+                    "team_id": 7,
+                    "team_name": "Uruguay",
+                    "logo": "https://media.api-football.com/teams/7.png"
+                },
+                "awayTeam": {
+                    "team_id": 4,
+                    "team_name": "Russia",
+                    "logo": "https://media.api-football.com/teams/4.png"
+                },
+                "goalsHomeTeam": 3,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "2-0",
+                    "fulltime": "3-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135810,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-25T14:00:00+00:00",
+                "event_timestamp": 1529935200,
+                "firstHalfStart": 1529935200,
+                "secondHalfStart": 1529938800,
+                "round": "Group Stage - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Volgograd Arena, Volgograd",
+                "referee": "Wilmar Roldan, Colombia",
+                "homeTeam": {
+                    "team_id": 23,
+                    "team_name": "Saudi Arabia",
+                    "logo": "https://media.api-football.com/teams/23.png"
+                },
+                "awayTeam": {
+                    "team_id": 32,
+                    "team_name": "Egypt",
+                    "logo": "https://media.api-football.com/teams/32.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": "2-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135811,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-25T18:00:00+00:00",
+                "event_timestamp": 1529949600,
+                "firstHalfStart": 1529949600,
+                "secondHalfStart": 1529953200,
+                "round": "Group Stage - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Mordovia Arena, Saransk",
+                "referee": "Enrique Caceres Villafane, Paraguay",
+                "homeTeam": {
+                    "team_id": 22,
+                    "team_name": "Iran",
+                    "logo": "https://media.api-football.com/teams/22.png"
+                },
+                "awayTeam": {
+                    "team_id": 27,
+                    "team_name": "Portugal",
+                    "logo": "https://media.api-football.com/teams/27.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "1-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135812,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-25T18:00:00+00:00",
+                "event_timestamp": 1529949600,
+                "firstHalfStart": 1529949600,
+                "secondHalfStart": 1529953200,
+                "round": "Group Stage - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kaliningrad Stadium, Kaliningrad",
+                "referee": "Ravshan Irmatov, Uzbekistan",
+                "homeTeam": {
+                    "team_id": 9,
+                    "team_name": "Spain",
+                    "logo": "https://media.api-football.com/teams/9.png"
+                },
+                "awayTeam": {
+                    "team_id": 31,
+                    "team_name": "Morocco",
+                    "logo": "https://media.api-football.com/teams/31.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": "2-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135813,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-26T14:00:00+00:00",
+                "event_timestamp": 1530021600,
+                "firstHalfStart": 1530021600,
+                "secondHalfStart": 1530025200,
+                "round": "Group Stage - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Luzhniki Stadium, Moscow",
+                "referee": "Sandro Meira Ricci, Brazil",
+                "homeTeam": {
+                    "team_id": 21,
+                    "team_name": "Denmark",
+                    "logo": "https://media.api-football.com/teams/21.png"
+                },
+                "awayTeam": {
+                    "team_id": 2,
+                    "team_name": "France",
+                    "logo": "https://media.api-football.com/teams/2.png"
                 },
                 "goalsHomeTeam": 0,
                 "goalsAwayTeam": 0,
                 "score": {
-                    "halftime": '0-0',
-                    "fulltime": '0-0',
-                    "extratime": '0-0',
+                    "halftime": "0-0",
+                    "fulltime": "0-0",
+                    "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291348,
-                "league_id": 1245,
+                "fixture_id": 135814,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-01-25T11:30:00+00:00",
-                "event_timestamp": 1579951800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-06-26T14:00:00+00:00",
+                "event_timestamp": 1530021600,
+                "firstHalfStart": 1530021600,
+                "secondHalfStart": 1530025200,
+                "round": "Group Stage - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Fisht Olympic Stadium, Sochi",
+                "referee": "Sergei Karasev, Russia",
                 "homeTeam": {
-                    "team_id": 649,
-                    "team_name": "HJK helsinki",
-                    "logo": "https://media.api-football.com/teams/649.png"
+                    "team_id": 20,
+                    "team_name": "Australia",
+                    "logo": "https://media.api-football.com/teams/20.png"
                 },
                 "awayTeam": {
-                    "team_id": 1168,
-                    "team_name": "Turku PS",
-                    "logo": "https://media.api-football.com/teams/1168.png"
+                    "team_id": 30,
+                    "team_name": "Peru",
+                    "logo": "https://media.api-football.com/teams/30.png"
                 },
                 "goalsHomeTeam": 0,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "0-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135815,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-26T18:00:00+00:00",
+                "event_timestamp": 1530036000,
+                "firstHalfStart": 1530036000,
+                "secondHalfStart": 1530039600,
+                "round": "Group Stage - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Krestovsky Stadium, Saint Petersburg",
+                "referee": "Cuneyt Cakir, Turkey",
+                "homeTeam": {
+                    "team_id": 19,
+                    "team_name": "Nigeria",
+                    "logo": "https://media.api-football.com/teams/19.png"
+                },
+                "awayTeam": {
+                    "team_id": 26,
+                    "team_name": "Argentina",
+                    "logo": "https://media.api-football.com/teams/26.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "1-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135816,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-26T18:00:00+00:00",
+                "event_timestamp": 1530036000,
+                "firstHalfStart": 1530036000,
+                "secondHalfStart": 1530039600,
+                "round": "Group Stage - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Rostov Arena, Rostov-on-Don",
+                "referee": "Antonio Mateu, Spain",
+                "homeTeam": {
+                    "team_id": 18,
+                    "team_name": "Iceland",
+                    "logo": "https://media.api-football.com/teams/18.png"
+                },
+                "awayTeam": {
+                    "team_id": 3,
+                    "team_name": "Croatia",
+                    "logo": "https://media.api-football.com/teams/3.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "1-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135817,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-06-27T14:00:00+00:00",
+                "event_timestamp": 1530108000,
+                "firstHalfStart": 1530108000,
+                "secondHalfStart": 1530111600,
+                "round": "Group Stage - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kazan Arena, Kazan",
+                "referee": "Mark Geiger, USA",
+                "homeTeam": {
+                    "team_id": 17,
+                    "team_name": "South Korea",
+                    "logo": "https://media.api-football.com/teams/17.png"
+                },
+                "awayTeam": {
+                    "team_id": 25,
+                    "team_name": "Germany",
+                    "logo": "https://media.api-football.com/teams/25.png"
+                },
+                "goalsHomeTeam": 2,
                 "goalsAwayTeam": 0,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-0",
+                    "fulltime": "2-0",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291349,
-                "league_id": 1245,
+                "fixture_id": 135818,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-01-25T12:00:00+00:00",
-                "event_timestamp": 1579953600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1166,
-                    "team_name": "FC Lahti",
-                    "logo": "https://media.api-football.com/teams/1166.png"
-                },
-                "awayTeam": {
-                    "team_id": 1163,
-                    "team_name": "Ilves Tampere",
-                    "logo": "https://media.api-football.com/teams/1163.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291350,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-25T12:00:00+00:00",
-                "event_timestamp": 1579953600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1167,
-                    "team_name": "Rops",
-                    "logo": "https://media.api-football.com/teams/1167.png"
-                },
-                "awayTeam": {
-                    "team_id": 689,
-                    "team_name": "SJK",
-                    "logo": "https://media.api-football.com/teams/689.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291351,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-25T12:00:00+00:00",
-                "event_timestamp": 1579953600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2078,
-                    "team_name": "EIF",
-                    "logo": "https://media.api-football.com/teams/2078.png"
-                },
-                "awayTeam": {
-                    "team_id": 2082,
-                    "team_name": "IF Gnistan",
-                    "logo": "https://media.api-football.com/teams/2082.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291352,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-25T12:30:00+00:00",
-                "event_timestamp": 1579955400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2080,
-                    "team_name": "haka",
-                    "logo": "https://media.api-football.com/teams/2080.png"
-                },
-                "awayTeam": {
-                    "team_id": 1165,
-                    "team_name": "KuPS",
-                    "logo": "https://media.api-football.com/teams/1165.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291353,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-25T13:00:00+00:00",
-                "event_timestamp": 1579957200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 9175,
-                    "team_name": "MP",
-                    "logo": "https://media.api-football.com/teams/9175.png"
-                },
-                "awayTeam": {
-                    "team_id": 2243,
-                    "team_name": "MyPa",
-                    "logo": "https://media.api-football.com/teams/2243.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291354,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-25T13:00:00+00:00",
-                "event_timestamp": 1579957200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2081,
-                    "team_name": "KPV Kokkola",
-                    "logo": "https://media.api-football.com/teams/2081.png"
-                },
-                "awayTeam": {
-                    "team_id": 2077,
-                    "team_name": "AC oulu",
-                    "logo": "https://media.api-football.com/teams/2077.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291355,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-25T13:15:00+00:00",
-                "event_timestamp": 1579958100,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1164,
-                    "team_name": "Inter Turku",
-                    "logo": "https://media.api-football.com/teams/1164.png"
-                },
-                "awayTeam": {
-                    "team_id": 587,
-                    "team_name": "IFK Mariehamn",
-                    "logo": "https://media.api-football.com/teams/587.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291356,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-25T13:15:00+00:00",
-                "event_timestamp": 1579958100,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2075,
-                    "team_name": "FF Jaro",
-                    "logo": "https://media.api-football.com/teams/2075.png"
-                },
-                "awayTeam": {
-                    "team_id": 2084,
-                    "team_name": "AC Kajaani",
-                    "logo": "https://media.api-football.com/teams/2084.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291357,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-25T16:00:00+00:00",
-                "event_timestamp": 1579968000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 650,
-                    "team_name": "vaasa PS",
-                    "logo": "https://media.api-football.com/teams/650.png"
-                },
-                "awayTeam": {
-                    "team_id": 9198,
-                    "team_name": "SJK Akatemia",
-                    "logo": "https://media.api-football.com/teams/9198.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291358,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-26T17:00:00+00:00",
-                "event_timestamp": 1580058000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2245,
-                    "team_name": "Musa",
-                    "logo": "https://media.api-football.com/teams/2245.png"
-                },
-                "awayTeam": {
-                    "team_id": 2076,
-                    "team_name": "Kooteepee",
-                    "logo": "https://media.api-football.com/teams/2076.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291359,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-01-31T16:30:00+00:00",
-                "event_timestamp": 1580488200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1165,
-                    "team_name": "KuPS",
-                    "logo": "https://media.api-football.com/teams/1165.png"
-                },
-                "awayTeam": {
-                    "team_id": 1166,
-                    "team_name": "FC Lahti",
-                    "logo": "https://media.api-football.com/teams/1166.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291360,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-01T11:00:00+00:00",
-                "event_timestamp": 1580554800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1164,
-                    "team_name": "Inter Turku",
-                    "logo": "https://media.api-football.com/teams/1164.png"
-                },
-                "awayTeam": {
-                    "team_id": 1169,
-                    "team_name": "Honka",
-                    "logo": "https://media.api-football.com/teams/1169.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291361,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-01T11:00:00+00:00",
-                "event_timestamp": 1580554800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2243,
-                    "team_name": "MyPa",
-                    "logo": "https://media.api-football.com/teams/2243.png"
-                },
-                "awayTeam": {
-                    "team_id": 2245,
-                    "team_name": "Musa",
-                    "logo": "https://media.api-football.com/teams/2245.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291362,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-01T11:30:00+00:00",
-                "event_timestamp": 1580556600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1172,
-                    "team_name": "HIFK Elsinki",
-                    "logo": "https://media.api-football.com/teams/1172.png"
-                },
-                "awayTeam": {
-                    "team_id": 649,
-                    "team_name": "HJK helsinki",
-                    "logo": "https://media.api-football.com/teams/649.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291363,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-01T12:00:00+00:00",
-                "event_timestamp": 1580558400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 689,
-                    "team_name": "SJK",
-                    "logo": "https://media.api-football.com/teams/689.png"
-                },
-                "awayTeam": {
-                    "team_id": 2080,
-                    "team_name": "haka",
-                    "logo": "https://media.api-football.com/teams/2080.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291364,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-01T12:00:00+00:00",
-                "event_timestamp": 1580558400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2077,
-                    "team_name": "AC oulu",
-                    "logo": "https://media.api-football.com/teams/2077.png"
-                },
-                "awayTeam": {
-                    "team_id": 2084,
-                    "team_name": "AC Kajaani",
-                    "logo": "https://media.api-football.com/teams/2084.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291365,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-01T12:30:00+00:00",
-                "event_timestamp": 1580560200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1163,
-                    "team_name": "Ilves Tampere",
-                    "logo": "https://media.api-football.com/teams/1163.png"
-                },
-                "awayTeam": {
-                    "team_id": 1167,
-                    "team_name": "Rops",
-                    "logo": "https://media.api-football.com/teams/1167.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291366,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-01T13:00:00+00:00",
-                "event_timestamp": 1580562000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 2",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2081,
-                    "team_name": "KPV Kokkola",
-                    "logo": "https://media.api-football.com/teams/2081.png"
-                },
-                "awayTeam": {
-                    "team_id": 650,
-                    "team_name": "vaasa PS",
-                    "logo": "https://media.api-football.com/teams/650.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291367,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-01T13:30:00+00:00",
-                "event_timestamp": 1580563800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
+                "event_date": "2018-06-27T14:00:00+00:00",
+                "event_timestamp": 1530108000,
+                "firstHalfStart": 1530108000,
+                "secondHalfStart": 1530111600,
                 "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Central Stadium, Yekaterinburg",
+                "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
-                    "team_id": 2076,
-                    "team_name": "Kooteepee",
-                    "logo": "https://media.api-football.com/teams/2076.png"
+                    "team_id": 16,
+                    "team_name": "Mexico",
+                    "logo": "https://media.api-football.com/teams/16.png"
                 },
                 "awayTeam": {
-                    "team_id": 2078,
-                    "team_name": "EIF",
-                    "logo": "https://media.api-football.com/teams/2078.png"
+                    "team_id": 5,
+                    "team_name": "Sweden",
+                    "logo": "https://media.api-football.com/teams/5.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 3,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-0",
+                    "fulltime": "0-3",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291368,
-                "league_id": 1245,
+                "fixture_id": 135819,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-01T14:15:00+00:00",
-                "event_timestamp": 1580566500,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
+                "event_date": "2018-06-27T18:00:00+00:00",
+                "event_timestamp": 1530122400,
+                "firstHalfStart": 1530122400,
+                "secondHalfStart": 1530126000,
                 "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Otkrytie Arena, Moscow",
+                "referee": "Alireza Faghani, Iran",
                 "homeTeam": {
-                    "team_id": 2082,
-                    "team_name": "IF Gnistan",
-                    "logo": "https://media.api-football.com/teams/2082.png"
+                    "team_id": 14,
+                    "team_name": "Serbia",
+                    "logo": "https://media.api-football.com/teams/14.png"
                 },
                 "awayTeam": {
-                    "team_id": 9175,
-                    "team_name": "MP",
-                    "logo": "https://media.api-football.com/teams/9175.png"
+                    "team_id": 6,
+                    "team_name": "Brazil",
+                    "logo": "https://media.api-football.com/teams/6.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 2,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-1",
+                    "fulltime": "0-2",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291369,
-                "league_id": 1245,
+                "fixture_id": 135820,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-02T17:00:00+00:00",
-                "event_timestamp": 1580662800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
+                "event_date": "2018-06-27T18:00:00+00:00",
+                "event_timestamp": 1530122400,
+                "firstHalfStart": 1530122400,
+                "secondHalfStart": 1530126000,
                 "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "referee": "Clement Turpin, France",
                 "homeTeam": {
-                    "team_id": 587,
-                    "team_name": "IFK Mariehamn",
-                    "logo": "https://media.api-football.com/teams/587.png"
+                    "team_id": 15,
+                    "team_name": "Switzerland",
+                    "logo": "https://media.api-football.com/teams/15.png"
                 },
                 "awayTeam": {
-                    "team_id": 1168,
-                    "team_name": "Turku PS",
-                    "logo": "https://media.api-football.com/teams/1168.png"
+                    "team_id": 29,
+                    "team_name": "Costa Rica",
+                    "logo": "https://media.api-football.com/teams/29.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 2,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "1-0",
+                    "fulltime": "2-2",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291370,
-                "league_id": 1245,
+                "fixture_id": 135821,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-07T12:00:00+00:00",
-                "event_timestamp": 1581076800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
+                "event_date": "2018-06-28T14:00:00+00:00",
+                "event_timestamp": 1530194400,
+                "firstHalfStart": 1530194400,
+                "secondHalfStart": 1530198000,
                 "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Volgograd Arena, Volgograd",
+                "referee": "Janny Sikazwe, Zambia",
                 "homeTeam": {
-                    "team_id": 1168,
-                    "team_name": "Turku PS",
-                    "logo": "https://media.api-football.com/teams/1168.png"
+                    "team_id": 12,
+                    "team_name": "Japan",
+                    "logo": "https://media.api-football.com/teams/12.png"
                 },
                 "awayTeam": {
-                    "team_id": 1172,
-                    "team_name": "HIFK Elsinki",
-                    "logo": "https://media.api-football.com/teams/1172.png"
+                    "team_id": 24,
+                    "team_name": "Poland",
+                    "logo": "https://media.api-football.com/teams/24.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-0",
+                    "fulltime": "0-1",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291371,
-                "league_id": 1245,
+                "fixture_id": 135822,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-07T17:00:00+00:00",
-                "event_timestamp": 1581094800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
+                "event_date": "2018-06-28T14:00:00+00:00",
+                "event_timestamp": 1530194400,
+                "firstHalfStart": 1530194400,
+                "secondHalfStart": 1530198000,
                 "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Samara Arena, Samara",
+                "referee": "Milorad Mazic, Serbia",
                 "homeTeam": {
-                    "team_id": 2245,
-                    "team_name": "Musa",
-                    "logo": "https://media.api-football.com/teams/2245.png"
+                    "team_id": 13,
+                    "team_name": "Senegal",
+                    "logo": "https://media.api-football.com/teams/13.png"
                 },
                 "awayTeam": {
-                    "team_id": 9175,
-                    "team_name": "MP",
-                    "logo": "https://media.api-football.com/teams/9175.png"
+                    "team_id": 8,
+                    "team_name": "Colombia",
+                    "logo": "https://media.api-football.com/teams/8.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-0",
+                    "fulltime": "0-1",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291372,
-                "league_id": 1245,
+                "fixture_id": 135823,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-08T11:00:00+00:00",
-                "event_timestamp": 1581159600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
+                "event_date": "2018-06-28T18:00:00+00:00",
+                "event_timestamp": 1530208800,
+                "firstHalfStart": 1530208800,
+                "secondHalfStart": 1530212400,
                 "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kaliningrad Stadium, Kaliningrad",
+                "referee": "Damir Skomina, Slovenia",
                 "homeTeam": {
-                    "team_id": 1169,
-                    "team_name": "Honka",
-                    "logo": "https://media.api-football.com/teams/1169.png"
+                    "team_id": 10,
+                    "team_name": "England",
+                    "logo": "https://media.api-football.com/teams/10.png"
                 },
                 "awayTeam": {
-                    "team_id": 587,
-                    "team_name": "IFK Mariehamn",
-                    "logo": "https://media.api-football.com/teams/587.png"
+                    "team_id": 1,
+                    "team_name": "Belgium",
+                    "logo": "https://media.api-football.com/teams/1.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-0",
+                    "fulltime": "0-1",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291373,
-                "league_id": 1245,
+                "fixture_id": 135824,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-08T11:30:00+00:00",
-                "event_timestamp": 1581161400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
+                "event_date": "2018-06-28T18:00:00+00:00",
+                "event_timestamp": 1530208800,
+                "firstHalfStart": 1530208800,
+                "secondHalfStart": 1530212400,
                 "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Mordovia Arena, Saransk",
+                "referee": "Nawaf Shukralla, Bahrain",
                 "homeTeam": {
-                    "team_id": 649,
-                    "team_name": "HJK helsinki",
-                    "logo": "https://media.api-football.com/teams/649.png"
+                    "team_id": 11,
+                    "team_name": "Panama",
+                    "logo": "https://media.api-football.com/teams/11.png"
                 },
                 "awayTeam": {
-                    "team_id": 1164,
-                    "team_name": "Inter Turku",
-                    "logo": "https://media.api-football.com/teams/1164.png"
+                    "team_id": 28,
+                    "team_name": "Tunisia",
+                    "logo": "https://media.api-football.com/teams/28.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "1-0",
+                    "fulltime": "1-2",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291374,
-                "league_id": 1245,
+                "fixture_id": 135761,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-08T12:00:00+00:00",
-                "event_timestamp": 1581163200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-06-30T14:00:00+00:00",
+                "event_timestamp": 1530367200,
+                "firstHalfStart": 1530367200,
+                "secondHalfStart": 1530370800,
+                "round": "8th Finals",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kazan Arena, Kazan",
+                "referee": "Alireza Faghani, Iran",
                 "homeTeam": {
-                    "team_id": 689,
-                    "team_name": "SJK",
-                    "logo": "https://media.api-football.com/teams/689.png"
+                    "team_id": 2,
+                    "team_name": "France",
+                    "logo": "https://media.api-football.com/teams/2.png"
                 },
                 "awayTeam": {
-                    "team_id": 1166,
-                    "team_name": "FC Lahti",
-                    "logo": "https://media.api-football.com/teams/1166.png"
+                    "team_id": 26,
+                    "team_name": "Argentina",
+                    "logo": "https://media.api-football.com/teams/26.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 4,
+                "goalsAwayTeam": 3,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "1-1",
+                    "fulltime": "4-3",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291375,
-                "league_id": 1245,
+                "fixture_id": 135762,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-08T12:00:00+00:00",
-                "event_timestamp": 1581163200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-06-30T18:00:00+00:00",
+                "event_timestamp": 1530381600,
+                "firstHalfStart": 1530381600,
+                "secondHalfStart": 1530385200,
+                "round": "8th Finals",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Fisht Olympic Stadium, Sochi",
+                "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
                 "homeTeam": {
-                    "team_id": 2076,
-                    "team_name": "Kooteepee",
-                    "logo": "https://media.api-football.com/teams/2076.png"
+                    "team_id": 7,
+                    "team_name": "Uruguay",
+                    "logo": "https://media.api-football.com/teams/7.png"
                 },
                 "awayTeam": {
-                    "team_id": 2082,
-                    "team_name": "IF Gnistan",
-                    "logo": "https://media.api-football.com/teams/2082.png"
+                    "team_id": 27,
+                    "team_name": "Portugal",
+                    "logo": "https://media.api-football.com/teams/27.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 1,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "1-0",
+                    "fulltime": "2-1",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291376,
-                "league_id": 1245,
+                "fixture_id": 135763,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-08T12:00:00+00:00",
-                "event_timestamp": 1581163200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 3",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-07-01T14:00:00+00:00",
+                "event_timestamp": 1530453600,
+                "firstHalfStart": 1530453600,
+                "secondHalfStart": 1530457200,
+                "round": "8th Finals",
+                "status": "Match Finished",
+                "statusShort": "PEN",
+                "elapsed": 120,
+                "venue": "Luzhniki Stadium, Moscow",
+                "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
-                    "team_id": 2078,
-                    "team_name": "EIF",
-                    "logo": "https://media.api-football.com/teams/2078.png"
+                    "team_id": 9,
+                    "team_name": "Spain",
+                    "logo": "https://media.api-football.com/teams/9.png"
                 },
                 "awayTeam": {
-                    "team_id": 2243,
-                    "team_name": "MyPa",
-                    "logo": "https://media.api-football.com/teams/2243.png"
+                    "team_id": 4,
+                    "team_name": "Russia",
+                    "logo": "https://media.api-football.com/teams/4.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "1-1",
+                    "fulltime": "1-1",
+                    "extratime": "1-1",
+                    "penalty": "3-4"
+                }
+            },
+            {
+                "fixture_id": 135764,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-07-01T18:00:00+00:00",
+                "event_timestamp": 1530468000,
+                "firstHalfStart": 1530468000,
+                "secondHalfStart": 1530471600,
+                "round": "8th Finals",
+                "status": "Match Finished",
+                "statusShort": "PEN",
+                "elapsed": 120,
+                "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "referee": "Nestor Pitana, Argentina",
+                "homeTeam": {
+                    "team_id": 3,
+                    "team_name": "Croatia",
+                    "logo": "https://media.api-football.com/teams/3.png"
+                },
+                "awayTeam": {
+                    "team_id": 21,
+                    "team_name": "Denmark",
+                    "logo": "https://media.api-football.com/teams/21.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": "1-1",
+                    "extratime": "1-1",
+                    "penalty": "3-2"
+                }
+            },
+            {
+                "fixture_id": 135765,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-07-02T14:00:00+00:00",
+                "event_timestamp": 1530540000,
+                "firstHalfStart": 1530540000,
+                "secondHalfStart": 1530543600,
+                "round": "8th Finals",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Samara Arena, Samara",
+                "referee": "Gianluca Rocchi, Italy",
+                "homeTeam": {
+                    "team_id": 6,
+                    "team_name": "Brazil",
+                    "logo": "https://media.api-football.com/teams/6.png"
+                },
+                "awayTeam": {
+                    "team_id": 16,
+                    "team_name": "Mexico",
+                    "logo": "https://media.api-football.com/teams/16.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "2-0",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291377,
-                "league_id": 1245,
+                "fixture_id": 135766,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-08T12:30:00+00:00",
-                "event_timestamp": 1581165000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-07-02T18:00:00+00:00",
+                "event_timestamp": 1530554400,
+                "firstHalfStart": 1530554400,
+                "secondHalfStart": 1530558000,
+                "round": "8th Finals",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Rostov Arena, Rostov-on-Don",
+                "referee": "Malang Diedhiou, Senegal",
                 "homeTeam": {
-                    "team_id": 1163,
-                    "team_name": "Ilves Tampere",
-                    "logo": "https://media.api-football.com/teams/1163.png"
+                    "team_id": 1,
+                    "team_name": "Belgium",
+                    "logo": "https://media.api-football.com/teams/1.png"
                 },
                 "awayTeam": {
-                    "team_id": 1165,
-                    "team_name": "KuPS",
-                    "logo": "https://media.api-football.com/teams/1165.png"
+                    "team_id": 12,
+                    "team_name": "Japan",
+                    "logo": "https://media.api-football.com/teams/12.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 3,
+                "goalsAwayTeam": 2,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-0",
+                    "fulltime": "3-2",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291378,
-                "league_id": 1245,
+                "fixture_id": 135767,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-08T13:15:00+00:00",
-                "event_timestamp": 1581167700,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-07-03T14:00:00+00:00",
+                "event_timestamp": 1530626400,
+                "firstHalfStart": 1530626400,
+                "secondHalfStart": 1530630000,
+                "round": "8th Finals",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Krestovsky Stadium, Saint Petersburg",
+                "referee": "Damir Skomina, Slovenia",
                 "homeTeam": {
-                    "team_id": 2075,
-                    "team_name": "FF Jaro",
-                    "logo": "https://media.api-football.com/teams/2075.png"
+                    "team_id": 5,
+                    "team_name": "Sweden",
+                    "logo": "https://media.api-football.com/teams/5.png"
                 },
                 "awayTeam": {
-                    "team_id": 2081,
-                    "team_name": "KPV Kokkola",
-                    "logo": "https://media.api-football.com/teams/2081.png"
+                    "team_id": 15,
+                    "team_name": "Switzerland",
+                    "logo": "https://media.api-football.com/teams/15.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-0",
+                    "fulltime": "1-0",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291379,
-                "league_id": 1245,
+                "fixture_id": 135768,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-08T16:00:00+00:00",
-                "event_timestamp": 1581177600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-07-03T18:00:00+00:00",
+                "event_timestamp": 1530640800,
+                "firstHalfStart": 1530640800,
+                "secondHalfStart": 1530644400,
+                "round": "8th Finals",
+                "status": "Match Finished",
+                "statusShort": "PEN",
+                "elapsed": 120,
+                "venue": "Otkrytie Arena, Moscow",
+                "referee": "Mark Geiger, USA",
                 "homeTeam": {
-                    "team_id": 650,
-                    "team_name": "vaasa PS",
-                    "logo": "https://media.api-football.com/teams/650.png"
+                    "team_id": 8,
+                    "team_name": "Colombia",
+                    "logo": "https://media.api-football.com/teams/8.png"
                 },
                 "awayTeam": {
-                    "team_id": 2077,
-                    "team_name": "AC oulu",
-                    "logo": "https://media.api-football.com/teams/2077.png"
+                    "team_id": 10,
+                    "team_name": "England",
+                    "logo": "https://media.api-football.com/teams/10.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-0",
+                    "fulltime": "1-1",
+                    "extratime": "1-1",
+                    "penalty": "3-4"
+                }
+            },
+            {
+                "fixture_id": 135769,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-07-06T14:00:00+00:00",
+                "event_timestamp": 1530885600,
+                "firstHalfStart": 1530885600,
+                "secondHalfStart": 1530889200,
+                "round": "Quarter-finals",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "referee": "Nestor Pitana, Argentina",
+                "homeTeam": {
+                    "team_id": 7,
+                    "team_name": "Uruguay",
+                    "logo": "https://media.api-football.com/teams/7.png"
+                },
+                "awayTeam": {
+                    "team_id": 2,
+                    "team_name": "France",
+                    "logo": "https://media.api-football.com/teams/2.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "0-2",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291380,
-                "league_id": 1245,
+                "fixture_id": 135770,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-08T17:00:00+00:00",
-                "event_timestamp": 1581181200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-07-06T18:00:00+00:00",
+                "event_timestamp": 1530900000,
+                "firstHalfStart": 1530900000,
+                "secondHalfStart": 1530903600,
+                "round": "Quarter-finals",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Kazan Arena, Kazan",
+                "referee": "Milorad Mazic, Serbia",
                 "homeTeam": {
-                    "team_id": 2084,
-                    "team_name": "AC Kajaani",
-                    "logo": "https://media.api-football.com/teams/2084.png"
+                    "team_id": 6,
+                    "team_name": "Brazil",
+                    "logo": "https://media.api-football.com/teams/6.png"
                 },
                 "awayTeam": {
-                    "team_id": 9198,
-                    "team_name": "SJK Akatemia",
-                    "logo": "https://media.api-football.com/teams/9198.png"
+                    "team_id": 1,
+                    "team_name": "Belgium",
+                    "logo": "https://media.api-football.com/teams/1.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-2",
+                    "fulltime": "1-2",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291381,
-                "league_id": 1245,
+                "fixture_id": 135771,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-09T16:00:00+00:00",
-                "event_timestamp": 1581264000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-07-07T14:00:00+00:00",
+                "event_timestamp": 1530972000,
+                "firstHalfStart": 1530972000,
+                "secondHalfStart": 1530975600,
+                "round": "Quarter-finals",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Samara Arena, Samara",
+                "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
-                    "team_id": 1167,
-                    "team_name": "Rops",
-                    "logo": "https://media.api-football.com/teams/1167.png"
+                    "team_id": 5,
+                    "team_name": "Sweden",
+                    "logo": "https://media.api-football.com/teams/5.png"
                 },
                 "awayTeam": {
-                    "team_id": 2080,
-                    "team_name": "haka",
-                    "logo": "https://media.api-football.com/teams/2080.png"
+                    "team_id": 10,
+                    "team_name": "England",
+                    "logo": "https://media.api-football.com/teams/10.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 2,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-1",
+                    "fulltime": "0-2",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291382,
-                "league_id": 1245,
+                "fixture_id": 135772,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-14T16:00:00+00:00",
-                "event_timestamp": 1581696000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-07-07T18:00:00+00:00",
+                "event_timestamp": 1530986400,
+                "firstHalfStart": 1530986400,
+                "secondHalfStart": 1530990000,
+                "round": "Quarter-finals",
+                "status": "Match Finished",
+                "statusShort": "PEN",
+                "elapsed": 120,
+                "venue": "Fisht Olympic Stadium, Sochi",
+                "referee": "Sandro Meira Ricci, Brazil",
                 "homeTeam": {
-                    "team_id": 1172,
-                    "team_name": "HIFK Elsinki",
-                    "logo": "https://media.api-football.com/teams/1172.png"
+                    "team_id": 4,
+                    "team_name": "Russia",
+                    "logo": "https://media.api-football.com/teams/4.png"
                 },
                 "awayTeam": {
-                    "team_id": 1164,
-                    "team_name": "Inter Turku",
-                    "logo": "https://media.api-football.com/teams/1164.png"
+                    "team_id": 3,
+                    "team_name": "Croatia",
+                    "logo": "https://media.api-football.com/teams/3.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 2,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "1-1",
+                    "fulltime": "1-1",
+                    "extratime": "2-2",
+                    "penalty": "3-4"
+                }
+            },
+            {
+                "fixture_id": 135773,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-07-10T18:00:00+00:00",
+                "event_timestamp": 1531245600,
+                "firstHalfStart": 1531245600,
+                "secondHalfStart": 1531249200,
+                "round": "Semi-finals",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Krestovsky Stadium, Saint Petersburg",
+                "referee": "Andres Cunha, Uruguay",
+                "homeTeam": {
+                    "team_id": 2,
+                    "team_name": "France",
+                    "logo": "https://media.api-football.com/teams/2.png"
+                },
+                "awayTeam": {
+                    "team_id": 1,
+                    "team_name": "Belgium",
+                    "logo": "https://media.api-football.com/teams/1.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "1-0",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291383,
-                "league_id": 1245,
+                "fixture_id": 135774,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-14T16:30:00+00:00",
-                "event_timestamp": 1581697800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-07-11T18:00:00+00:00",
+                "event_timestamp": 1531332000,
+                "firstHalfStart": 1531332000,
+                "secondHalfStart": 1531335600,
+                "round": "Semi-finals",
+                "status": "Match Finished",
+                "statusShort": "AET",
+                "elapsed": 120,
+                "venue": "Luzhniki Stadium, Moscow",
+                "referee": "Cuneyt Cakir, Turkey",
                 "homeTeam": {
-                    "team_id": 1165,
-                    "team_name": "KuPS",
-                    "logo": "https://media.api-football.com/teams/1165.png"
+                    "team_id": 3,
+                    "team_name": "Croatia",
+                    "logo": "https://media.api-football.com/teams/3.png"
                 },
                 "awayTeam": {
-                    "team_id": 689,
-                    "team_name": "SJK",
-                    "logo": "https://media.api-football.com/teams/689.png"
+                    "team_id": 10,
+                    "team_name": "England",
+                    "logo": "https://media.api-football.com/teams/10.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 1,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "0-1",
+                    "fulltime": "1-1",
+                    "extratime": "2-1",
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 135775,
+                "league_id": 1,
+                "league": {
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
+                },
+                "event_date": "2018-07-14T14:00:00+00:00",
+                "event_timestamp": 1531576800,
+                "firstHalfStart": 1531576800,
+                "secondHalfStart": 1531580400,
+                "round": "3rd Place Final",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Krestovsky Stadium, Saint Petersburg",
+                "referee": "Alireza Faghani, Iran",
+                "homeTeam": {
+                    "team_id": 1,
+                    "team_name": "Belgium",
+                    "logo": "https://media.api-football.com/teams/1.png"
+                },
+                "awayTeam": {
+                    "team_id": 10,
+                    "team_name": "England",
+                    "logo": "https://media.api-football.com/teams/10.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "2-0",
                     "extratime": null,
                     "penalty": null
                 }
             },
             {
-                "fixture_id": 291384,
-                "league_id": 1245,
+                "fixture_id": 135776,
+                "league_id": 1,
                 "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
+                    "name": "World Cup",
+                    "country": "World",
+                    "logo": "https://media.api-football.com/leagues/1.png",
+                    "flag": null
                 },
-                "event_date": "2020-02-14T17:00:00+00:00",
-                "event_timestamp": 1581699600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
+                "event_date": "2018-07-15T15:00:00+00:00",
+                "event_timestamp": 1531666800,
+                "firstHalfStart": 1531666800,
+                "secondHalfStart": 1531670400,
+                "round": "Final",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Luzhniki Stadium, Moscow",
+                "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
-                    "team_id": 2245,
-                    "team_name": "Musa",
-                    "logo": "https://media.api-football.com/teams/2245.png"
+                    "team_id": 2,
+                    "team_name": "France",
+                    "logo": "https://media.api-football.com/teams/2.png"
                 },
                 "awayTeam": {
-                    "team_id": 2082,
-                    "team_name": "IF Gnistan",
-                    "logo": "https://media.api-football.com/teams/2082.png"
+                    "team_id": 3,
+                    "team_name": "Croatia",
+                    "logo": "https://media.api-football.com/teams/3.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 4,
+                "goalsAwayTeam": 2,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291385,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-14T17:30:00+00:00",
-                "event_timestamp": 1581701400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 9198,
-                    "team_name": "SJK Akatemia",
-                    "logo": "https://media.api-football.com/teams/9198.png"
-                },
-                "awayTeam": {
-                    "team_id": 2081,
-                    "team_name": "KPV Kokkola",
-                    "logo": "https://media.api-football.com/teams/2081.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291386,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-15T11:00:00+00:00",
-                "event_timestamp": 1581764400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 4",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1168,
-                    "team_name": "Turku PS",
-                    "logo": "https://media.api-football.com/teams/1168.png"
-                },
-                "awayTeam": {
-                    "team_id": 1169,
-                    "team_name": "Honka",
-                    "logo": "https://media.api-football.com/teams/1169.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291387,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-15T11:00:00+00:00",
-                "event_timestamp": 1581764400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2243,
-                    "team_name": "MyPa",
-                    "logo": "https://media.api-football.com/teams/2243.png"
-                },
-                "awayTeam": {
-                    "team_id": 2076,
-                    "team_name": "Kooteepee",
-                    "logo": "https://media.api-football.com/teams/2076.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291388,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-15T11:30:00+00:00",
-                "event_timestamp": 1581766200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 649,
-                    "team_name": "HJK helsinki",
-                    "logo": "https://media.api-football.com/teams/649.png"
-                },
-                "awayTeam": {
-                    "team_id": 587,
-                    "team_name": "IFK Mariehamn",
-                    "logo": "https://media.api-football.com/teams/587.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291389,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-15T12:00:00+00:00",
-                "event_timestamp": 1581768000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1166,
-                    "team_name": "FC Lahti",
-                    "logo": "https://media.api-football.com/teams/1166.png"
-                },
-                "awayTeam": {
-                    "team_id": 1167,
-                    "team_name": "Rops",
-                    "logo": "https://media.api-football.com/teams/1167.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291390,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-15T12:00:00+00:00",
-                "event_timestamp": 1581768000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 9175,
-                    "team_name": "MP",
-                    "logo": "https://media.api-football.com/teams/9175.png"
-                },
-                "awayTeam": {
-                    "team_id": 2078,
-                    "team_name": "EIF",
-                    "logo": "https://media.api-football.com/teams/2078.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291391,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-15T12:30:00+00:00",
-                "event_timestamp": 1581769800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2080,
-                    "team_name": "haka",
-                    "logo": "https://media.api-football.com/teams/2080.png"
-                },
-                "awayTeam": {
-                    "team_id": 1163,
-                    "team_name": "Ilves Tampere",
-                    "logo": "https://media.api-football.com/teams/1163.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291392,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-15T13:15:00+00:00",
-                "event_timestamp": 1581772500,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2075,
-                    "team_name": "FF Jaro",
-                    "logo": "https://media.api-football.com/teams/2075.png"
-                },
-                "awayTeam": {
-                    "team_id": 2077,
-                    "team_name": "AC oulu",
-                    "logo": "https://media.api-football.com/teams/2077.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291393,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-15T16:00:00+00:00",
-                "event_timestamp": 1581782400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2084,
-                    "team_name": "AC Kajaani",
-                    "logo": "https://media.api-football.com/teams/2084.png"
-                },
-                "awayTeam": {
-                    "team_id": 650,
-                    "team_name": "vaasa PS",
-                    "logo": "https://media.api-football.com/teams/650.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291394,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-21T18:00:00+00:00",
-                "event_timestamp": 1582308000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 650,
-                    "team_name": "vaasa PS",
-                    "logo": "https://media.api-football.com/teams/650.png"
-                },
-                "awayTeam": {
-                    "team_id": 2075,
-                    "team_name": "FF Jaro",
-                    "logo": "https://media.api-football.com/teams/2075.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291395,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-22T11:00:00+00:00",
-                "event_timestamp": 1582369200,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2082,
-                    "team_name": "IF Gnistan",
-                    "logo": "https://media.api-football.com/teams/2082.png"
-                },
-                "awayTeam": {
-                    "team_id": 2243,
-                    "team_name": "MyPa",
-                    "logo": "https://media.api-football.com/teams/2243.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291396,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-22T12:00:00+00:00",
-                "event_timestamp": 1582372800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 5",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1166,
-                    "team_name": "FC Lahti",
-                    "logo": "https://media.api-football.com/teams/1166.png"
-                },
-                "awayTeam": {
-                    "team_id": 2080,
-                    "team_name": "haka",
-                    "logo": "https://media.api-football.com/teams/2080.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291397,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-22T12:00:00+00:00",
-                "event_timestamp": 1582372800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2078,
-                    "team_name": "EIF",
-                    "logo": "https://media.api-football.com/teams/2078.png"
-                },
-                "awayTeam": {
-                    "team_id": 2245,
-                    "team_name": "Musa",
-                    "logo": "https://media.api-football.com/teams/2245.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291398,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-22T12:00:00+00:00",
-                "event_timestamp": 1582372800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2076,
-                    "team_name": "Kooteepee",
-                    "logo": "https://media.api-football.com/teams/2076.png"
-                },
-                "awayTeam": {
-                    "team_id": 9175,
-                    "team_name": "MP",
-                    "logo": "https://media.api-football.com/teams/9175.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291399,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-22T12:00:00+00:00",
-                "event_timestamp": 1582372800,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2077,
-                    "team_name": "AC oulu",
-                    "logo": "https://media.api-football.com/teams/2077.png"
-                },
-                "awayTeam": {
-                    "team_id": 9198,
-                    "team_name": "SJK Akatemia",
-                    "logo": "https://media.api-football.com/teams/9198.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291400,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-22T12:30:00+00:00",
-                "event_timestamp": 1582374600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1163,
-                    "team_name": "Ilves Tampere",
-                    "logo": "https://media.api-football.com/teams/1163.png"
-                },
-                "awayTeam": {
-                    "team_id": 689,
-                    "team_name": "SJK",
-                    "logo": "https://media.api-football.com/teams/689.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291401,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-22T13:00:00+00:00",
-                "event_timestamp": 1582376400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 2081,
-                    "team_name": "KPV Kokkola",
-                    "logo": "https://media.api-football.com/teams/2081.png"
-                },
-                "awayTeam": {
-                    "team_id": 2084,
-                    "team_name": "AC Kajaani",
-                    "logo": "https://media.api-football.com/teams/2084.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291402,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-27T13:00:00+00:00",
-                "event_timestamp": 1582808400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1169,
-                    "team_name": "Honka",
-                    "logo": "https://media.api-football.com/teams/1169.png"
-                },
-                "awayTeam": {
-                    "team_id": 649,
-                    "team_name": "HJK helsinki",
-                    "logo": "https://media.api-football.com/teams/649.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291403,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-28T16:30:00+00:00",
-                "event_timestamp": 1582907400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1165,
-                    "team_name": "KuPS",
-                    "logo": "https://media.api-football.com/teams/1165.png"
-                },
-                "awayTeam": {
-                    "team_id": 1167,
-                    "team_name": "Rops",
-                    "logo": "https://media.api-football.com/teams/1167.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291404,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-29T13:15:00+00:00",
-                "event_timestamp": 1582982100,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 1164,
-                    "team_name": "Inter Turku",
-                    "logo": "https://media.api-football.com/teams/1164.png"
-                },
-                "awayTeam": {
-                    "team_id": 1168,
-                    "team_name": "Turku PS",
-                    "logo": "https://media.api-football.com/teams/1168.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291405,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-29T17:00:00+00:00",
-                "event_timestamp": 1582995600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 587,
-                    "team_name": "IFK Mariehamn",
-                    "logo": "https://media.api-football.com/teams/587.png"
-                },
-                "awayTeam": {
-                    "team_id": 1172,
-                    "team_name": "HIFK Elsinki",
-                    "logo": "https://media.api-football.com/teams/1172.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
-                }
-            },
-            {
-                "fixture_id": 291406,
-                "league_id": 1245,
-                "league": {
-                    "name": "Suomen Cup",
-                    "country": "Finland",
-                    "logo": null,
-                    "flag": "https://media.api-football.com/flags/fi.svg"
-                },
-                "event_date": "2020-02-29T17:30:00+00:00",
-                "event_timestamp": 1582997400,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Group Stage - 6",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": null,
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 9198,
-                    "team_name": "SJK Akatemia",
-                    "logo": "https://media.api-football.com/teams/9198.png"
-                },
-                "awayTeam": {
-                    "team_id": 2075,
-                    "team_name": "FF Jaro",
-                    "logo": "https://media.api-football.com/teams/2075.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "2-1",
+                    "fulltime": "4-2",
                     "extratime": null,
                     "penalty": null
                 }
