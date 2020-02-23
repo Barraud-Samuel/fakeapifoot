@@ -16,9 +16,9 @@ module.exports  ={
                 "firstHalfStart": 1528988400,
                 "secondHalfStart": 1528992000,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
@@ -31,11 +31,11 @@ module.exports  ={
                     "team_name": "Saudi Arabia",
                     "logo": "https://media.api-football.com/teams/23.png"
                 },
-                "goalsHomeTeam": 5,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "2-0",
-                    "fulltime": "5-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -54,9 +54,9 @@ module.exports  ={
                 "firstHalfStart": 1529064000,
                 "secondHalfStart": 1529067600,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Central Stadium, Yekaterinburg",
                 "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
@@ -69,11 +69,11 @@ module.exports  ={
                     "team_name": "Uruguay",
                     "logo": "https://media.api-football.com/teams/7.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -92,9 +92,9 @@ module.exports  ={
                 "firstHalfStart": 1529074800,
                 "secondHalfStart": 1529078400,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Krestovsky Stadium, Saint Petersburg",
                 "referee": "Cuneyt Cakir, Turkey",
                 "homeTeam": {
@@ -107,11 +107,11 @@ module.exports  ={
                     "team_name": "Iran",
                     "logo": "https://media.api-football.com/teams/22.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -130,9 +130,9 @@ module.exports  ={
                 "firstHalfStart": 1529085600,
                 "secondHalfStart": 1529089200,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Fisht Olympic Stadium, Sochi",
                 "referee": "Gianluca Rocchi, Italy",
                 "homeTeam": {
@@ -145,11 +145,11 @@ module.exports  ={
                     "team_name": "Spain",
                     "logo": "https://media.api-football.com/teams/9.png"
                 },
-                "goalsHomeTeam": 3,
-                "goalsAwayTeam": 3,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "2-1",
-                    "fulltime": "3-3",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -168,9 +168,9 @@ module.exports  ={
                 "firstHalfStart": 1529143200,
                 "secondHalfStart": 1529146800,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Kazan Arena, Kazan",
                 "referee": "Andres Cunha, Uruguay",
                 "homeTeam": {
@@ -183,11 +183,11 @@ module.exports  ={
                     "team_name": "Australia",
                     "logo": "https://media.api-football.com/teams/20.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "2-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -206,9 +206,9 @@ module.exports  ={
                 "firstHalfStart": 1529154000,
                 "secondHalfStart": 1529157600,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Otkrytie Arena, Moscow",
                 "referee": "Szymon Marciniak, Poland",
                 "homeTeam": {
@@ -221,11 +221,11 @@ module.exports  ={
                     "team_name": "Iceland",
                     "logo": "https://media.api-football.com/teams/18.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "1-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -244,9 +244,9 @@ module.exports  ={
                 "firstHalfStart": 1529164800,
                 "secondHalfStart": 1529168400,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Mordovia Arena, Saransk",
                 "referee": "Bakary Papa Gassama, Gambia",
                 "homeTeam": {
@@ -259,11 +259,11 @@ module.exports  ={
                     "team_name": "Denmark",
                     "logo": "https://media.api-football.com/teams/21.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -282,9 +282,9 @@ module.exports  ={
                 "firstHalfStart": 1529175600,
                 "secondHalfStart": 1529179200,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Kaliningrad Stadium, Kaliningrad",
                 "referee": "Sandro Meira Ricci, Brazil",
                 "homeTeam": {
@@ -297,11 +297,11 @@ module.exports  ={
                     "team_name": "Nigeria",
                     "logo": "https://media.api-football.com/teams/19.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "2-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -320,9 +320,9 @@ module.exports  ={
                 "firstHalfStart": 1529236800,
                 "secondHalfStart": 1529240400,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Samara Arena, Samara",
                 "referee": "Malang Diedhiou, Senegal",
                 "homeTeam": {
@@ -335,11 +335,11 @@ module.exports  ={
                     "team_name": "Serbia",
                     "logo": "https://media.api-football.com/teams/14.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -358,9 +358,9 @@ module.exports  ={
                 "firstHalfStart": 1529247600,
                 "secondHalfStart": 1529251200,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Alireza Faghani, Iran",
                 "homeTeam": {
@@ -373,11 +373,11 @@ module.exports  ={
                     "team_name": "Mexico",
                     "logo": "https://media.api-football.com/teams/16.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "0-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -396,9 +396,9 @@ module.exports  ={
                 "firstHalfStart": 1529258400,
                 "secondHalfStart": 1529262000,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Rostov Arena, Rostov-on-Don",
                 "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
                 "homeTeam": {
@@ -411,11 +411,11 @@ module.exports  ={
                     "team_name": "Switzerland",
                     "logo": "https://media.api-football.com/teams/15.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "1-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -434,9 +434,9 @@ module.exports  ={
                 "firstHalfStart": 1529323200,
                 "secondHalfStart": 1529326800,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
                 "referee": "Joel Aguilar Chicas, El Salvador",
                 "homeTeam": {
@@ -449,11 +449,11 @@ module.exports  ={
                     "team_name": "South Korea",
                     "logo": "https://media.api-football.com/teams/17.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "1-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -472,9 +472,9 @@ module.exports  ={
                 "firstHalfStart": 1529334000,
                 "secondHalfStart": 1529337600,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Fisht Olympic Stadium, Sochi",
                 "referee": "Janny Sikazwe, Zambia",
                 "homeTeam": {
@@ -487,11 +487,11 @@ module.exports  ={
                     "team_name": "Panama",
                     "logo": "https://media.api-football.com/teams/11.png"
                 },
-                "goalsHomeTeam": 3,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "3-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -510,9 +510,9 @@ module.exports  ={
                 "firstHalfStart": 1529344800,
                 "secondHalfStart": 1529348400,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Volgograd Arena, Volgograd",
                 "referee": "Wilmar Roldan, Colombia",
                 "homeTeam": {
@@ -525,11 +525,11 @@ module.exports  ={
                     "team_name": "England",
                     "logo": "https://media.api-football.com/teams/10.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "1-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -548,9 +548,9 @@ module.exports  ={
                 "firstHalfStart": 1529409600,
                 "secondHalfStart": 1529413200,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Mordovia Arena, Saransk",
                 "referee": "Damir Skomina, Slovenia",
                 "homeTeam": {
@@ -563,11 +563,11 @@ module.exports  ={
                     "team_name": "Japan",
                     "logo": "https://media.api-football.com/teams/12.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "1-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -586,9 +586,9 @@ module.exports  ={
                 "firstHalfStart": 1529420400,
                 "secondHalfStart": 1529424000,
                 "round": "Group Stage - 1",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Otkrytie Arena, Moscow",
                 "referee": "Nawaf Shukralla, Bahrain",
                 "homeTeam": {
@@ -601,11 +601,11 @@ module.exports  ={
                     "team_name": "Senegal",
                     "logo": "https://media.api-football.com/teams/13.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "1-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -624,9 +624,9 @@ module.exports  ={
                 "firstHalfStart": 1529431200,
                 "secondHalfStart": 1529434800,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Krestovsky Stadium, Saint Petersburg",
                 "referee": "Enrique Caceres Villafane, Paraguay",
                 "homeTeam": {
@@ -639,11 +639,11 @@ module.exports  ={
                     "team_name": "Egypt",
                     "logo": "https://media.api-football.com/teams/32.png"
                 },
-                "goalsHomeTeam": 3,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "3-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -662,9 +662,9 @@ module.exports  ={
                 "firstHalfStart": 1529496000,
                 "secondHalfStart": 1529499600,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Mark Geiger, USA",
                 "homeTeam": {
@@ -677,11 +677,11 @@ module.exports  ={
                     "team_name": "Morocco",
                     "logo": "https://media.api-football.com/teams/31.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "1-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -700,9 +700,9 @@ module.exports  ={
                 "firstHalfStart": 1529506800,
                 "secondHalfStart": 1529510400,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Rostov Arena, Rostov-on-Don",
                 "referee": "Clement Turpin, France",
                 "homeTeam": {
@@ -715,11 +715,11 @@ module.exports  ={
                     "team_name": "Saudi Arabia",
                     "logo": "https://media.api-football.com/teams/23.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "1-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -738,9 +738,9 @@ module.exports  ={
                 "firstHalfStart": 1529517600,
                 "secondHalfStart": 1529521200,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Kazan Arena, Kazan",
                 "referee": "Andres Cunha, Uruguay",
                 "homeTeam": {
@@ -753,11 +753,11 @@ module.exports  ={
                     "team_name": "Spain",
                     "logo": "https://media.api-football.com/teams/9.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -776,9 +776,9 @@ module.exports  ={
                 "firstHalfStart": 1529582400,
                 "secondHalfStart": 1529586000,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Samara Arena, Samara",
                 "referee": "Antonio Mateu, Spain",
                 "homeTeam": {
@@ -791,11 +791,11 @@ module.exports  ={
                     "team_name": "Australia",
                     "logo": "https://media.api-football.com/teams/20.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "1-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -814,9 +814,9 @@ module.exports  ={
                 "firstHalfStart": 1529593200,
                 "secondHalfStart": 1529596800,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Central Stadium, Yekaterinburg",
                 "referee": "Mohammed Abdulla Hassan Mohamed, United Arab Emirates",
                 "homeTeam": {
@@ -829,11 +829,11 @@ module.exports  ={
                     "team_name": "Peru",
                     "logo": "https://media.api-football.com/teams/30.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "1-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -852,9 +852,9 @@ module.exports  ={
                 "firstHalfStart": 1529604000,
                 "secondHalfStart": 1529607600,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
                 "referee": "Ravshan Irmatov, Uzbekistan",
                 "homeTeam": {
@@ -867,11 +867,11 @@ module.exports  ={
                     "team_name": "Croatia",
                     "logo": "https://media.api-football.com/teams/3.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 3,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-3",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -890,9 +890,9 @@ module.exports  ={
                 "firstHalfStart": 1529668800,
                 "secondHalfStart": 1529672400,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Krestovsky Stadium, Saint Petersburg",
                 "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
@@ -905,11 +905,11 @@ module.exports  ={
                     "team_name": "Costa Rica",
                     "logo": "https://media.api-football.com/teams/29.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "2-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -928,9 +928,9 @@ module.exports  ={
                 "firstHalfStart": 1529679600,
                 "secondHalfStart": 1529683200,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Volgograd Arena, Volgograd",
                 "referee": "Matt Conger, New Zealand",
                 "homeTeam": {
@@ -943,11 +943,11 @@ module.exports  ={
                     "team_name": "Iceland",
                     "logo": "https://media.api-football.com/teams/18.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "2-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -966,9 +966,9 @@ module.exports  ={
                 "firstHalfStart": 1529690400,
                 "secondHalfStart": 1529694000,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Kaliningrad Stadium, Kaliningrad",
                 "referee": "Felix Brych, Germany",
                 "homeTeam": {
@@ -981,11 +981,11 @@ module.exports  ={
                     "team_name": "Switzerland",
                     "logo": "https://media.api-football.com/teams/15.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "1-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1004,9 +1004,9 @@ module.exports  ={
                 "firstHalfStart": 1529755200,
                 "secondHalfStart": 1529758800,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Otkrytie Arena, Moscow",
                 "referee": "Jair Marrufo, USA",
                 "homeTeam": {
@@ -1019,11 +1019,11 @@ module.exports  ={
                     "team_name": "Tunisia",
                     "logo": "https://media.api-football.com/teams/28.png"
                 },
-                "goalsHomeTeam": 5,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "3-1",
-                    "fulltime": "5-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1042,9 +1042,9 @@ module.exports  ={
                 "firstHalfStart": 1529766000,
                 "secondHalfStart": 1529769600,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Rostov Arena, Rostov-on-Don",
                 "referee": "Milorad Mazic, Serbia",
                 "homeTeam": {
@@ -1057,11 +1057,11 @@ module.exports  ={
                     "team_name": "Mexico",
                     "logo": "https://media.api-football.com/teams/16.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "1-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1080,9 +1080,9 @@ module.exports  ={
                 "firstHalfStart": 1529776800,
                 "secondHalfStart": 1529780400,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Fisht Olympic Stadium, Sochi",
                 "referee": "Szymon Marciniak, Poland",
                 "homeTeam": {
@@ -1095,11 +1095,11 @@ module.exports  ={
                     "team_name": "Sweden",
                     "logo": "https://media.api-football.com/teams/5.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "2-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1118,9 +1118,9 @@ module.exports  ={
                 "firstHalfStart": 1529841600,
                 "secondHalfStart": 1529845200,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
                 "referee": "Ghead Zaglol Grisha, Egypt",
                 "homeTeam": {
@@ -1133,11 +1133,11 @@ module.exports  ={
                     "team_name": "Panama",
                     "logo": "https://media.api-football.com/teams/11.png"
                 },
-                "goalsHomeTeam": 6,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "5-0",
-                    "fulltime": "6-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1156,9 +1156,9 @@ module.exports  ={
                 "firstHalfStart": 1529852400,
                 "secondHalfStart": 1529856000,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Central Stadium, Yekaterinburg",
                 "referee": "Gianluca Rocchi, Italy",
                 "homeTeam": {
@@ -1171,11 +1171,11 @@ module.exports  ={
                     "team_name": "Senegal",
                     "logo": "https://media.api-football.com/teams/13.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "2-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1194,9 +1194,9 @@ module.exports  ={
                 "firstHalfStart": 1529863200,
                 "secondHalfStart": 1529866800,
                 "round": "Group Stage - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Kazan Arena, Kazan",
                 "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
                 "homeTeam": {
@@ -1209,11 +1209,11 @@ module.exports  ={
                     "team_name": "Colombia",
                     "logo": "https://media.api-football.com/teams/8.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 3,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "0-3",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1232,9 +1232,9 @@ module.exports  ={
                 "firstHalfStart": 1529935200,
                 "secondHalfStart": 1529938800,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Samara Arena, Samara",
                 "referee": "Malang Diedhiou, Senegal",
                 "homeTeam": {
@@ -1247,11 +1247,11 @@ module.exports  ={
                     "team_name": "Russia",
                     "logo": "https://media.api-football.com/teams/4.png"
                 },
-                "goalsHomeTeam": 3,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "2-0",
-                    "fulltime": "3-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1270,9 +1270,9 @@ module.exports  ={
                 "firstHalfStart": 1529935200,
                 "secondHalfStart": 1529938800,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Volgograd Arena, Volgograd",
                 "referee": "Wilmar Roldan, Colombia",
                 "homeTeam": {
@@ -1285,11 +1285,11 @@ module.exports  ={
                     "team_name": "Egypt",
                     "logo": "https://media.api-football.com/teams/32.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "2-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1308,9 +1308,9 @@ module.exports  ={
                 "firstHalfStart": 1529949600,
                 "secondHalfStart": 1529953200,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Mordovia Arena, Saransk",
                 "referee": "Enrique Caceres Villafane, Paraguay",
                 "homeTeam": {
@@ -1323,11 +1323,11 @@ module.exports  ={
                     "team_name": "Portugal",
                     "logo": "https://media.api-football.com/teams/27.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "1-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1346,9 +1346,9 @@ module.exports  ={
                 "firstHalfStart": 1529949600,
                 "secondHalfStart": 1529953200,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Kaliningrad Stadium, Kaliningrad",
                 "referee": "Ravshan Irmatov, Uzbekistan",
                 "homeTeam": {
@@ -1361,11 +1361,11 @@ module.exports  ={
                     "team_name": "Morocco",
                     "logo": "https://media.api-football.com/teams/31.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "2-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1384,9 +1384,9 @@ module.exports  ={
                 "firstHalfStart": 1530021600,
                 "secondHalfStart": 1530025200,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Sandro Meira Ricci, Brazil",
                 "homeTeam": {
@@ -1399,11 +1399,11 @@ module.exports  ={
                     "team_name": "France",
                     "logo": "https://media.api-football.com/teams/2.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1422,9 +1422,9 @@ module.exports  ={
                 "firstHalfStart": 1530021600,
                 "secondHalfStart": 1530025200,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Fisht Olympic Stadium, Sochi",
                 "referee": "Sergei Karasev, Russia",
                 "homeTeam": {
@@ -1437,11 +1437,11 @@ module.exports  ={
                     "team_name": "Peru",
                     "logo": "https://media.api-football.com/teams/30.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "0-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1460,9 +1460,9 @@ module.exports  ={
                 "firstHalfStart": 1530036000,
                 "secondHalfStart": 1530039600,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Krestovsky Stadium, Saint Petersburg",
                 "referee": "Cuneyt Cakir, Turkey",
                 "homeTeam": {
@@ -1475,11 +1475,11 @@ module.exports  ={
                     "team_name": "Argentina",
                     "logo": "https://media.api-football.com/teams/26.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "1-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1498,9 +1498,9 @@ module.exports  ={
                 "firstHalfStart": 1530036000,
                 "secondHalfStart": 1530039600,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Rostov Arena, Rostov-on-Don",
                 "referee": "Antonio Mateu, Spain",
                 "homeTeam": {
@@ -1513,11 +1513,11 @@ module.exports  ={
                     "team_name": "Croatia",
                     "logo": "https://media.api-football.com/teams/3.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "1-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1536,9 +1536,9 @@ module.exports  ={
                 "firstHalfStart": 1530108000,
                 "secondHalfStart": 1530111600,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Kazan Arena, Kazan",
                 "referee": "Mark Geiger, USA",
                 "homeTeam": {
@@ -1551,11 +1551,11 @@ module.exports  ={
                     "team_name": "Germany",
                     "logo": "https://media.api-football.com/teams/25.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "2-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1574,9 +1574,9 @@ module.exports  ={
                 "firstHalfStart": 1530108000,
                 "secondHalfStart": 1530111600,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Central Stadium, Yekaterinburg",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
@@ -1589,11 +1589,11 @@ module.exports  ={
                     "team_name": "Sweden",
                     "logo": "https://media.api-football.com/teams/5.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 3,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-3",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1612,9 +1612,9 @@ module.exports  ={
                 "firstHalfStart": 1530122400,
                 "secondHalfStart": 1530126000,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Otkrytie Arena, Moscow",
                 "referee": "Alireza Faghani, Iran",
                 "homeTeam": {
@@ -1627,11 +1627,11 @@ module.exports  ={
                     "team_name": "Brazil",
                     "logo": "https://media.api-football.com/teams/6.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "0-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1650,9 +1650,9 @@ module.exports  ={
                 "firstHalfStart": 1530122400,
                 "secondHalfStart": 1530126000,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
                 "referee": "Clement Turpin, France",
                 "homeTeam": {
@@ -1665,11 +1665,11 @@ module.exports  ={
                     "team_name": "Costa Rica",
                     "logo": "https://media.api-football.com/teams/29.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "2-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1688,9 +1688,9 @@ module.exports  ={
                 "firstHalfStart": 1530194400,
                 "secondHalfStart": 1530198000,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Volgograd Arena, Volgograd",
                 "referee": "Janny Sikazwe, Zambia",
                 "homeTeam": {
@@ -1703,11 +1703,11 @@ module.exports  ={
                     "team_name": "Poland",
                     "logo": "https://media.api-football.com/teams/24.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1726,9 +1726,9 @@ module.exports  ={
                 "firstHalfStart": 1530194400,
                 "secondHalfStart": 1530198000,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Samara Arena, Samara",
                 "referee": "Milorad Mazic, Serbia",
                 "homeTeam": {
@@ -1741,11 +1741,11 @@ module.exports  ={
                     "team_name": "Colombia",
                     "logo": "https://media.api-football.com/teams/8.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1764,9 +1764,9 @@ module.exports  ={
                 "firstHalfStart": 1530208800,
                 "secondHalfStart": 1530212400,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Kaliningrad Stadium, Kaliningrad",
                 "referee": "Damir Skomina, Slovenia",
                 "homeTeam": {
@@ -1779,11 +1779,11 @@ module.exports  ={
                     "team_name": "Belgium",
                     "logo": "https://media.api-football.com/teams/1.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "0-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1802,9 +1802,9 @@ module.exports  ={
                 "firstHalfStart": 1530208800,
                 "secondHalfStart": 1530212400,
                 "round": "Group Stage - 3",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Mordovia Arena, Saransk",
                 "referee": "Nawaf Shukralla, Bahrain",
                 "homeTeam": {
@@ -1817,11 +1817,11 @@ module.exports  ={
                     "team_name": "Tunisia",
                     "logo": "https://media.api-football.com/teams/28.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "1-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1840,9 +1840,9 @@ module.exports  ={
                 "firstHalfStart": 1530367200,
                 "secondHalfStart": 1530370800,
                 "round": "8th Finals",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Kazan Arena, Kazan",
                 "referee": "Alireza Faghani, Iran",
                 "homeTeam": {
@@ -1855,11 +1855,11 @@ module.exports  ={
                     "team_name": "Argentina",
                     "logo": "https://media.api-football.com/teams/26.png"
                 },
-                "goalsHomeTeam": 4,
-                "goalsAwayTeam": 3,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "4-3",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1878,9 +1878,9 @@ module.exports  ={
                 "firstHalfStart": 1530381600,
                 "secondHalfStart": 1530385200,
                 "round": "8th Finals",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Fisht Olympic Stadium, Sochi",
                 "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
                 "homeTeam": {
@@ -1893,11 +1893,11 @@ module.exports  ={
                     "team_name": "Portugal",
                     "logo": "https://media.api-football.com/teams/27.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "2-1",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -1916,9 +1916,9 @@ module.exports  ={
                 "firstHalfStart": 1530453600,
                 "secondHalfStart": 1530457200,
                 "round": "8th Finals",
-                "status": "Match Finished",
+                "status": "Not Started",
                 "statusShort": "PEN",
-                "elapsed": 120,
+                "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
@@ -1931,13 +1931,13 @@ module.exports  ={
                     "team_name": "Russia",
                     "logo": "https://media.api-football.com/teams/4.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "1-1",
-                    "extratime": "1-1",
-                    "penalty": "3-4"
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": 
                 }
             },
             {
@@ -1954,9 +1954,9 @@ module.exports  ={
                 "firstHalfStart": 1530468000,
                 "secondHalfStart": 1530471600,
                 "round": "8th Finals",
-                "status": "Match Finished",
+                "status": "Not Started",
                 "statusShort": "PEN",
-                "elapsed": 120,
+                "elapsed": 0,
                 "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
@@ -1969,13 +1969,13 @@ module.exports  ={
                     "team_name": "Denmark",
                     "logo": "https://media.api-football.com/teams/21.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "1-1",
-                    "extratime": "1-1",
-                    "penalty": "3-2"
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": 
                 }
             },
             {
@@ -1992,9 +1992,9 @@ module.exports  ={
                 "firstHalfStart": 1530540000,
                 "secondHalfStart": 1530543600,
                 "round": "8th Finals",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Samara Arena, Samara",
                 "referee": "Gianluca Rocchi, Italy",
                 "homeTeam": {
@@ -2007,11 +2007,11 @@ module.exports  ={
                     "team_name": "Mexico",
                     "logo": "https://media.api-football.com/teams/16.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "2-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -2030,9 +2030,9 @@ module.exports  ={
                 "firstHalfStart": 1530554400,
                 "secondHalfStart": 1530558000,
                 "round": "8th Finals",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Rostov Arena, Rostov-on-Don",
                 "referee": "Malang Diedhiou, Senegal",
                 "homeTeam": {
@@ -2045,11 +2045,11 @@ module.exports  ={
                     "team_name": "Japan",
                     "logo": "https://media.api-football.com/teams/12.png"
                 },
-                "goalsHomeTeam": 3,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "3-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -2068,9 +2068,9 @@ module.exports  ={
                 "firstHalfStart": 1530626400,
                 "secondHalfStart": 1530630000,
                 "round": "8th Finals",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Krestovsky Stadium, Saint Petersburg",
                 "referee": "Damir Skomina, Slovenia",
                 "homeTeam": {
@@ -2083,11 +2083,11 @@ module.exports  ={
                     "team_name": "Switzerland",
                     "logo": "https://media.api-football.com/teams/15.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "1-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -2106,9 +2106,9 @@ module.exports  ={
                 "firstHalfStart": 1530640800,
                 "secondHalfStart": 1530644400,
                 "round": "8th Finals",
-                "status": "Match Finished",
+                "status": "Not Started",
                 "statusShort": "PEN",
-                "elapsed": 120,
+                "elapsed": 0,
                 "venue": "Otkrytie Arena, Moscow",
                 "referee": "Mark Geiger, USA",
                 "homeTeam": {
@@ -2121,13 +2121,13 @@ module.exports  ={
                     "team_name": "England",
                     "logo": "https://media.api-football.com/teams/10.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "1-1",
-                    "extratime": "1-1",
-                    "penalty": "3-4"
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": 
                 }
             },
             {
@@ -2144,9 +2144,9 @@ module.exports  ={
                 "firstHalfStart": 1530885600,
                 "secondHalfStart": 1530889200,
                 "round": "Quarter-finals",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
@@ -2159,11 +2159,11 @@ module.exports  ={
                     "team_name": "France",
                     "logo": "https://media.api-football.com/teams/2.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "0-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -2182,9 +2182,9 @@ module.exports  ={
                 "firstHalfStart": 1530900000,
                 "secondHalfStart": 1530903600,
                 "round": "Quarter-finals",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Kazan Arena, Kazan",
                 "referee": "Milorad Mazic, Serbia",
                 "homeTeam": {
@@ -2197,11 +2197,11 @@ module.exports  ={
                     "team_name": "Belgium",
                     "logo": "https://media.api-football.com/teams/1.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-2",
-                    "fulltime": "1-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -2220,9 +2220,9 @@ module.exports  ={
                 "firstHalfStart": 1530972000,
                 "secondHalfStart": 1530975600,
                 "round": "Quarter-finals",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Samara Arena, Samara",
                 "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
@@ -2235,11 +2235,11 @@ module.exports  ={
                     "team_name": "England",
                     "logo": "https://media.api-football.com/teams/10.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "0-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -2258,9 +2258,9 @@ module.exports  ={
                 "firstHalfStart": 1530986400,
                 "secondHalfStart": 1530990000,
                 "round": "Quarter-finals",
-                "status": "Match Finished",
+                "status": "Not Started",
                 "statusShort": "PEN",
-                "elapsed": 120,
+                "elapsed": 0,
                 "venue": "Fisht Olympic Stadium, Sochi",
                 "referee": "Sandro Meira Ricci, Brazil",
                 "homeTeam": {
@@ -2273,13 +2273,13 @@ module.exports  ={
                     "team_name": "Croatia",
                     "logo": "https://media.api-football.com/teams/3.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-1",
-                    "fulltime": "1-1",
-                    "extratime": "2-2",
-                    "penalty": "3-4"
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": 
                 }
             },
             {
@@ -2296,9 +2296,9 @@ module.exports  ={
                 "firstHalfStart": 1531245600,
                 "secondHalfStart": 1531249200,
                 "round": "Semi-finals",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Krestovsky Stadium, Saint Petersburg",
                 "referee": "Andres Cunha, Uruguay",
                 "homeTeam": {
@@ -2311,11 +2311,11 @@ module.exports  ={
                     "team_name": "Belgium",
                     "logo": "https://media.api-football.com/teams/1.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-0",
-                    "fulltime": "1-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -2334,9 +2334,9 @@ module.exports  ={
                 "firstHalfStart": 1531332000,
                 "secondHalfStart": 1531335600,
                 "round": "Semi-finals",
-                "status": "Match Finished",
+                "status": "Not Started",
                 "statusShort": "AET",
-                "elapsed": 120,
+                "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Cuneyt Cakir, Turkey",
                 "homeTeam": {
@@ -2349,12 +2349,12 @@ module.exports  ={
                     "team_name": "England",
                     "logo": "https://media.api-football.com/teams/10.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "0-1",
-                    "fulltime": "1-1",
-                    "extratime": "2-1",
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
                     "penalty": null
                 }
             },
@@ -2372,9 +2372,9 @@ module.exports  ={
                 "firstHalfStart": 1531576800,
                 "secondHalfStart": 1531580400,
                 "round": "3rd Place Final",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Krestovsky Stadium, Saint Petersburg",
                 "referee": "Alireza Faghani, Iran",
                 "homeTeam": {
@@ -2387,11 +2387,11 @@ module.exports  ={
                     "team_name": "England",
                     "logo": "https://media.api-football.com/teams/10.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "1-0",
-                    "fulltime": "2-0",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
@@ -2410,9 +2410,9 @@ module.exports  ={
                 "firstHalfStart": 1531666800,
                 "secondHalfStart": 1531670400,
                 "round": "Final",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "TBD",
+                "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
@@ -2425,11 +2425,11 @@ module.exports  ={
                     "team_name": "Croatia",
                     "logo": "https://media.api-football.com/teams/3.png"
                 },
-                "goalsHomeTeam": 4,
-                "goalsAwayTeam": 2,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
-                    "halftime": "2-1",
-                    "fulltime": "4-2",
+                    "halftime": null,
+                    "fulltime": null,
                     "extratime": null,
                     "penalty": null
                 }
