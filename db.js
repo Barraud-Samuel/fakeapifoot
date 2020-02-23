@@ -1937,7 +1937,7 @@ module.exports  ={
                     "halftime": null,
                     "fulltime": null,
                     "extratime": null,
-                    "penalty": 
+                    "penalty": null
                 }
             },
             {
@@ -1975,7 +1975,7 @@ module.exports  ={
                     "halftime": null,
                     "fulltime": null,
                     "extratime": null,
-                    "penalty": 
+                    "penalty": null
                 }
             },
             {
@@ -2127,7 +2127,7 @@ module.exports  ={
                     "halftime": null,
                     "fulltime": null,
                     "extratime": null,
-                    "penalty": 
+                    "penalty": null
                 }
             },
             {
@@ -2279,7 +2279,7 @@ module.exports  ={
                     "halftime": null,
                     "fulltime": null,
                     "extratime": null,
-                    "penalty": 
+                    "penalty": null
                 }
             },
             {
