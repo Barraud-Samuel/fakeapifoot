@@ -54,9 +54,9 @@ module.exports  ={
                 "firstHalfStart": 1529064000,
                 "secondHalfStart": 1529067600,
                 "round": "Groupe A",
-                "status": "First Half",
-                "statusShort": "1H",
-                "elapsed": 10,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Central Stadium, Yekaterinburg",
                 "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
@@ -69,7 +69,7 @@ module.exports  ={
                     "team_name": "Uruguay",
                     "logo": "https://media.api-football.com/teams/7.png"
                 },
-                "goalsHomeTeam": 1,
+                "goalsHomeTeam": null,
                 "goalsAwayTeam": null,
                 "score": {
                     "halftime": null,
