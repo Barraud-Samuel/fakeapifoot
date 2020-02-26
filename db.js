@@ -16,9 +16,9 @@ module.exports  ={
                 "firstHalfStart": 1528988400,
                 "secondHalfStart": 1528992000,
                 "round": "Groupe A",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 10,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
@@ -54,9 +54,9 @@ module.exports  ={
                 "firstHalfStart": 1529064000,
                 "secondHalfStart": 1529067600,
                 "round": "Groupe A",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 5,
                 "venue": "Central Stadium, Yekaterinburg",
                 "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
@@ -70,7 +70,7 @@ module.exports  ={
                     "logo": "https://media.api-football.com/teams/7.png"
                 },
                 "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsAwayTeam": 1,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
