@@ -55,7 +55,7 @@ module.exports  ={
                 "secondHalfStart": 1529067600,
                 "round": "Groupe A",
                 "status": "First Half",
-                "statusShort": "NS",
+                "statusShort": "1H",
                 "elapsed": 10,
                 "venue": "Central Stadium, Yekaterinburg",
                 "referee": "Bjorn Kuipers, Netherlands",
