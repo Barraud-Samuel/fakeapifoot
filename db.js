@@ -16,9 +16,9 @@ module.exports  ={
                 "firstHalfStart": 1528988400,
                 "secondHalfStart": 1528992000,
                 "round": "Groupe A",
-                "status": "First Half",
-                "statusShort": "1H",
-                "elapsed": 10,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
@@ -31,8 +31,8 @@ module.exports  ={
                     "team_name": "Saudi Arabia",
                     "logo": "https://media.api-football.com/teams/23.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 4,
+                "goalsAwayTeam": 0,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
@@ -69,7 +69,7 @@ module.exports  ={
                     "team_name": "Uruguay",
                     "logo": "https://media.api-football.com/teams/7.png"
                 },
-                "goalsHomeTeam": null,
+                "goalsHomeTeam": 2,
                 "goalsAwayTeam": 1,
                 "score": {
                     "halftime": null,
@@ -92,9 +92,9 @@ module.exports  ={
                 "firstHalfStart": 1529074800,
                 "secondHalfStart": 1529078400,
                 "round": "Groupe A",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 1,
                 "venue": "Krestovsky Stadium, Saint Petersburg",
                 "referee": "Cuneyt Cakir, Turkey",
                 "homeTeam": {
@@ -107,8 +107,8 @@ module.exports  ={
                     "team_name": "Iran",
                     "logo": "https://media.api-football.com/teams/22.png"
                 },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
