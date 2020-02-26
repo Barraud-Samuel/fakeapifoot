@@ -15,9 +15,9 @@ module.exports  ={
                 "event_timestamp": 1528988400,
                 "firstHalfStart": 1528988400,
                 "secondHalfStart": 1528992000,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
-                "statusShort": "NS",
+                "round": "Groupe A",
+                "status": "First Half",
+                "statusShort": "1H",
                 "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Nestor Pitana, Argentina",
@@ -31,7 +31,7 @@ module.exports  ={
                     "team_name": "Saudi Arabia",
                     "logo": "https://media.api-football.com/teams/23.png"
                 },
-                "goalsHomeTeam": null,
+                "goalsHomeTeam": 1,
                 "goalsAwayTeam": null,
                 "score": {
                     "halftime": null,
