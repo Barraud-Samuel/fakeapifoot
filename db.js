@@ -16,9 +16,9 @@ module.exports  ={
                 "firstHalfStart": 1528988400,
                 "secondHalfStart": 1528992000,
                 "round": "Groupe A",
-                "status": "First Half",
-                "statusShort": "1H",
-                "elapsed": 0,
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
@@ -31,11 +31,11 @@ module.exports  ={
                     "team_name": "Saudi Arabia",
                     "logo": "https://media.api-football.com/teams/23.png"
                 },
-                "goalsHomeTeam": 1,
-                "goalsAwayTeam": null,
+                "goalsHomeTeam": 5,
+                "goalsAwayTeam": 0,
                 "score": {
-                    "halftime": null,
-                    "fulltime": null,
+                    "halftime": "2-0",
+                    "fulltime": "5-0",
                     "extratime": null,
                     "penalty": null
                 }
@@ -53,10 +53,10 @@ module.exports  ={
                 "event_timestamp": 1529064000,
                 "firstHalfStart": 1529064000,
                 "secondHalfStart": 1529067600,
-                "round": "Group Stage - 1",
-                "status": "Not Started",
+                "round": "Groupe A",
+                "status": "First Half",
                 "statusShort": "NS",
-                "elapsed": 0,
+                "elapsed": 10,
                 "venue": "Central Stadium, Yekaterinburg",
                 "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
@@ -69,7 +69,7 @@ module.exports  ={
                     "team_name": "Uruguay",
                     "logo": "https://media.api-football.com/teams/7.png"
                 },
-                "goalsHomeTeam": null,
+                "goalsHomeTeam": 1,
                 "goalsAwayTeam": null,
                 "score": {
                     "halftime": null,
