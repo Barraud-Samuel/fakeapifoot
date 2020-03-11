@@ -16,9 +16,9 @@ module.exports  ={
                 "firstHalfStart": 1528988400,
                 "secondHalfStart": 1528992000,
                 "round": "Groupe A",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
@@ -31,8 +31,8 @@ module.exports  ={
                     "team_name": "Saudi Arabia",
                     "logo": "https://media.api-football.com/teams/23.png"
                 },
-                "goalsHomeTeam": 4,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
@@ -54,9 +54,9 @@ module.exports  ={
                 "firstHalfStart": 1529064000,
                 "secondHalfStart": 1529067600,
                 "round": "Groupe A",
-                "status": "First Half",
-                "statusShort": "1H",
-                "elapsed": 5,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Central Stadium, Yekaterinburg",
                 "referee": "Bjorn Kuipers, Netherlands",
                 "homeTeam": {
@@ -69,8 +69,8 @@ module.exports  ={
                     "team_name": "Uruguay",
                     "logo": "https://media.api-football.com/teams/7.png"
                 },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 1,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
@@ -92,9 +92,9 @@ module.exports  ={
                 "firstHalfStart": 1529074800,
                 "secondHalfStart": 1529078400,
                 "round": "Groupe A",
-                "status": "First Half",
-                "statusShort": "1H",
-                "elapsed": 1,
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
                 "venue": "Krestovsky Stadium, Saint Petersburg",
                 "referee": "Cuneyt Cakir, Turkey",
                 "homeTeam": {
@@ -107,8 +107,8 @@ module.exports  ={
                     "team_name": "Iran",
                     "logo": "https://media.api-football.com/teams/22.png"
                 },
-                "goalsHomeTeam": 0,
-                "goalsAwayTeam": 0,
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
                 "score": {
                     "halftime": null,
                     "fulltime": null,
