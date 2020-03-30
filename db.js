@@ -18,7 +18,7 @@ module.exports  ={
                 "round": "Groupe A",
                 "status": "Not Started",
                 "statusShort": "NS",
-                "elapsed": 1,
+                "elapsed": 0,
                 "venue": "Luzhniki Stadium, Moscow",
                 "referee": "Nestor Pitana, Argentina",
                 "homeTeam": {
