@@ -1,4 +1,4 @@
-module.exports  ={
+{
     "api": {
         "results": 64,
         "fixtures": [

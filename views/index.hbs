@@ -1,0 +1,39 @@
+<div class="row">
+  <div class="col-sm">
+    <h2 class="text-center">Api</h2>
+    <form class="mt-5" action="/updateGames" method="POST" id="formApi">
+      <textarea class="form-control min-vh-100 mb-3" name="apiData" id="apiData">
+         {{{dataStringified}}}
+      </textarea>
+      <div class="d-grid">
+        <button class="btn btn-primary" id="submitBtn">Enregistrer</button>
+      </div>
+    </form>
+  </div>
+  <div class="col-sm">
+    <h2 class="text-center">resultats</h2>
+    <div class="mt-5">
+      {{#each data.api.fixtures}}
+        {{> card parameter=this}}
+      {{/each}}
+    </div>
+  </div>
+</div>
+
+
+<script>
+  let submitBtn = document.getElementById('submitBtn');
+  let formApi = document.getElementById('formApi');
+  submitBtn.addEventListener('click',(e)=>{
+    e.preventDefault()
+    prettyPrint()
+  })
+  function prettyPrint() {
+    var ugly = document.getElementById('apiData').value;
+    var obj = JSON.parse(ugly);
+    var pretty = JSON.stringify(obj, null, 4);
+    document.getElementById('apiData').value = pretty;
+    //error handling
+    formApi.submit()
+}
+</script>
