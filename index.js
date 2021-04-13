@@ -4,6 +4,8 @@ var logger = require('morgan');
 var bodyParser = require('body-parser');
 var hbs = require('express-handlebars');
 const handlebarsHelpers = require('./helpers/handlebars');
+const mongoose = require('mongoose');
+const db = require('./db');
 
 var routes = require('./routes/index');
 
