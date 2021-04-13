@@ -2,8 +2,11 @@
   <div class="col-sm">
     <h2 class="text-center">Api</h2>
     <form class="mt-5" action="/updateGames" method="POST" id="formApi">
+      <div class="alert alert-danger visually-hidden" id="formError" role="alert">
+        Une erreur s'est produite
+      </div>
       <textarea class="form-control min-vh-100 mb-3" name="apiData" id="apiData">
-         {{{dataStringified}}}
+        {{{dataStringified}}}
       </textarea>
       <div class="d-grid">
         <button class="btn btn-primary" id="submitBtn">Enregistrer</button>
@@ -24,16 +27,23 @@
 <script>
   let submitBtn = document.getElementById('submitBtn');
   let formApi = document.getElementById('formApi');
+  let alertFormError = document.getElementById('formError');
   submitBtn.addEventListener('click',(e)=>{
     e.preventDefault()
     prettyPrint()
   })
   function prettyPrint() {
-    var ugly = document.getElementById('apiData').value;
-    var obj = JSON.parse(ugly);
-    var pretty = JSON.stringify(obj, null, 4);
-    document.getElementById('apiData').value = pretty;
-    //error handling
+    const ugly = document.getElementById('apiData').value;
+    try{
+      const obj = JSON.parse(ugly);
+      const pretty = JSON.stringify(obj, null, 4);
+      document.getElementById('apiData').value = pretty;
+    } catch(e){
+      alertFormError.classList.remove('visually-hidden')
+      alertFormError.innerHTML = e
+      window.scrollTo(0,0);
+      return;
+    }
     formApi.submit()
 }
 </script>
