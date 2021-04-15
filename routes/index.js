@@ -3,6 +3,7 @@ var router = express.Router();
 const fs = require('fs');
 const path = require('path');
 const mongoose = require('mongoose');
+const requireAuth = require('../middleware/checkAuth')
 
 const Schema = mongoose.Schema;
 const EndpointGamesSchema = new Schema({
@@ -22,7 +23,9 @@ const EndpointTeamsSchema = new Schema({
 var EndpointGames = mongoose.model('games', EndpointGamesSchema);
 var EndpointTeams = mongoose.model('teams', EndpointTeamsSchema);
 
-router.get('/', (req, res, next) => {
+
+
+router.get('/',requireAuth, (req, res, next) => {
   EndpointGames.findOne((err,data)=>{
   let strigifiedData = JSON.stringify(data,null,4)
   res.render('index',{dataStringified: JSON.stringify(data,null,4),data:JSON.parse(strigifiedData)});
@@ -32,7 +35,7 @@ router.get('/', (req, res, next) => {
   //res.render('index',{dataStringified: JSON.stringify(games,null,4),data:games});
 });
 
-router.post('/updateGames',async (req,res,next)=>{
+router.post('/updateGames',requireAuth,async (req,res,next)=>{
   //const updatedDataStringed = JSON.stringify(req.body.apiData,null,4)
   //const updatedData = req.body.apiData
   //fs.writeFileSync(path.resolve(__dirname,'../data/games.json'),updatedData)
@@ -48,7 +51,7 @@ router.get('/api/games',async (req,res,next)=>{
   res.send(doc)
 })
 
-router.get('/api/teams', async(req,res,nect)=>{
+router.get('/api/teams', async(req,res,next)=>{
   /* const rawDataTeams = fs.readFileSync(path.resolve(__dirname,'../data/teams.json'));
   const teams = JSON.parse(rawDataTeams) */
   const doc = await EndpointTeams.findOne();
