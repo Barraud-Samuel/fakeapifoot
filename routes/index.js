@@ -2,27 +2,9 @@ var express = require('express');
 var router = express.Router();
 const fs = require('fs');
 const path = require('path');
-const mongoose = require('mongoose');
 const requireAuth = require('../middleware/checkAuth')
-
-const Schema = mongoose.Schema;
-const EndpointGamesSchema = new Schema({
-  _id:mongoose.Schema.Types.ObjectId,
-  api:{
-    type:Object,
-    required:true
-  }
-}, {collection: 'games'})
-const EndpointTeamsSchema = new Schema({
-  _id:mongoose.Schema.Types.ObjectId,
-  api:{
-    type:Object,
-    required:true
-  }
-}, {collection: 'teams'})
-var EndpointGames = mongoose.model('games', EndpointGamesSchema);
-var EndpointTeams = mongoose.model('teams', EndpointTeamsSchema);
-
+const EndpointGames = require('../models/games');
+const EndpointTeams = require('../models/teams');
 
 
 router.get('/',requireAuth, (req, res, next) => {
