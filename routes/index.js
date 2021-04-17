@@ -10,7 +10,8 @@ const EndpointTeams = require('../models/teams');
 router.get('/',requireAuth, (req, res, next) => {
   EndpointGames.findOne((err,data)=>{
   let strigifiedData = JSON.stringify(data,null,4)
-  res.render('index',{dataStringified: JSON.stringify(data,null,4),data:JSON.parse(strigifiedData)});
+  const fixtures = JSON.parse(strigifiedData).api.fixtures.reverse()
+  res.render('index',{dataStringified: JSON.stringify(data,null,4),fixtures:fixtures});
 })
   //const rawDataGames = fs.readFileSync(path.resolve(__dirname,'../data/games.json'));
   //const games = JSON.parse(rawDataGames);
